@@ -1,6 +1,6 @@
 'use client';
 import { useEffect, useState } from 'react';
-import { ArrowUpRight, Leaf } from '@phosphor-icons/react';
+import { Leaf } from '@phosphor-icons/react';
 import { Tabs, TabsList, TabsTrigger, TabsContent } from '@/components/ui/tabs';
 
 type Recipe = { name:string; ingredients:string; price?:number };
@@ -64,5 +64,5 @@ export default function Menu(){
  return <div className="md:px-8"><Tabs value={category} onValueChange={change} className="menu-tabs">
  <TabsList aria-label="Catégories de paninis" className="menu-tab-list">{sections.map(s=><TabsTrigger key={s.id} value={s.id} className="menu-tab">{s.id==='vegetarien'&&<Leaf size={16} aria-hidden="true"/>}{s.title}</TabsTrigger>)}</TabsList>
  {sections.map(s=><TabsContent key={s.id} value={s.id} className="menu-panel"><div className="menu-intro flex flex-wrap items-baseline justify-between gap-4 border-b border-border pb-6 pt-8"><h3 className="serif text-3xl">{s.subtitle}</h3><span className="eyebrow">{s.id==='sucre'?'Un peu, beaucoup, passionnément.':'À déguster bien chaud.'}</span></div><div className="grid grid-flow-dense grid-cols-1 gap-x-14 md:grid-cols-2">{s.recipes.map(r=><article className="recipe py-6" key={r.name}><div className="flex items-baseline justify-between gap-5"><h4 className="text-xl font-semibold tracking-tight">{r.name}</h4><span className="shrink-0 text-base font-medium tabular-nums">{r.price===0?<span className="text-xs text-muted-foreground">Prix au comptoir</span>:euros.format(r.price??4.5)}</span></div><p className="mt-2 max-w-[390px] text-sm leading-6 text-muted-foreground">{r.ingredients}</p></article>)}</div></TabsContent>)}
- </Tabs><div className="mt-9 flex flex-col justify-between gap-4 border-t border-border pt-6 sm:flex-row"><p className="max-w-lg text-xs leading-5 text-muted-foreground">Carte retranscrite depuis nos ardoises. Prix, suppléments et disponibilités à confirmer au comptoir. Pour les allergènes, renseignez-vous auprès de l’équipe.</p><a className="text-link shrink-0 self-start" href={category==='sucre'?'/images/carte-sucree.webp':'/images/carte-salee.webp'} target="_blank" rel="noreferrer">Voir l’ardoise originale <ArrowUpRight size={16} aria-hidden="true"/></a></div></div>;
+ </Tabs><div className="mt-9 flex flex-col justify-between gap-4 border-t border-border pt-6 sm:flex-row"><p className="max-w-lg text-xs leading-5 text-muted-foreground">Prix, suppléments et disponibilités à confirmer au comptoir. Pour les allergènes, renseignez-vous auprès de l’équipe.</p></div></div>;
 }

@@ -1,0 +1,20 @@
+# Au Ch’ti Panini
+
+Site vitrine français pour le commerce au 280 rue Nationale à Lille.
+
+## Développement
+
+- Node.js 22.13 ou version supérieure
+- Installer les dépendances avec `pnpm install`
+- Démarrer avec `pnpm dev`
+- Compiler avec `pnpm build`
+
+La carte est définie dans `app/panini-menu.tsx`. Les textes sont dans `app/page.tsx`, le thème dans `app/globals.css` et les animations dans `app/panini-motion.tsx`.
+
+## Informations à valider avant ouverture publique
+
+Les tarifs et recettes sont retranscrits depuis les trois photos d’ardoises fournies. Les prix des deux Printaniers ne sont pas visibles et renvoient au comptoir. Les horaires détaillés et le téléphone ne sont pas fournis : le site dirige vers Google pour les horaires actualisés. Les suppléments restent à confirmer auprès du commerce. L’établissement devra fournir les informations légales adaptées avant une ouverture publique.
+
+Les ardoises originales figurent dans `public/images/`. L’image `panini-hero.png` est un visuel d’illustration généré avec l’outil imagegen intégré, et cette nature est mentionnée sur la page.
+
+Prompt du visuel : photographie éditoriale réaliste de deux moitiés de panini grillé, mozzarella, tomate et basilic, sur papier crème et table de bistrot brun espresso ; lumière naturelle chaude latérale, texture du pain, sans texte ni logo, format paysage 3:2.

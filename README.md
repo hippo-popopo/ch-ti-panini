@@ -2,6 +2,12 @@
 
 Site vitrine français pour le commerce au 280 rue Nationale à Lille.
 
+## Identité de la boutique
+
+L’identité reprend la photo de devanture fournie, conservée dans `references/brand/boutique-reference.jpg` : fond anthracite vert, lettrage ivoire, nom arrondi en contour blanc inspiré de l’enseigne supérieure, et signature manuscrite de la vitre. DynaPuff interprète le lettrage de l’enseigne ; Lobster Two et Barlow Condensed accompagnent les titres. Les trois polices sont hébergées localement. Il s’agit d’une interprétation numérique, pas du fichier original du logo.
+
+Le macaron « Sucré & Salé », sa bordure dentelée, « depuis 2004 » et « L’incontournable » sont repris en SVG dans `app/brand-seal.tsx`. La mention de la boutique unique provient de l’utilisateur et la date de la photographie fournie.
+
 ## Développement
 
 - Node.js 22.13 ou version supérieure

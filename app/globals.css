@@ -8,8 +8,8 @@
 @font-face{font-family:'Barlow Condensed';src:url('/fonts/barlow-condensed-bold.ttf') format('truetype');font-weight:700;font-style:normal;font-display:swap}
 
 :root{
-  --background:#191f1c;--foreground:#f3f0e6;--primary:#f3f0e6;--primary-foreground:#191f1c;
-  --muted:#252d28;--muted-foreground:#b8c0b8;--border:#424c44;--accent:#79544a;--ring:#ded7c3;
+  --background:#ece9de;--foreground:#202820;--primary:#191f1c;--primary-foreground:#f3f0e6;
+  --muted:#e2e2d6;--muted-foreground:#52604f;--border:#bec2b5;--accent:#79544a;--ring:#4d5a49;
   --radius:.2rem;--card:var(--background);--card-foreground:var(--foreground);
   --popover:var(--background);--popover-foreground:var(--foreground);--secondary:var(--muted);--secondary-foreground:var(--foreground);--input:var(--border);
 }
@@ -18,18 +18,18 @@
   --color-muted:var(--muted);--color-muted-foreground:var(--muted-foreground);--color-border:var(--border);--color-accent:var(--accent);--color-ring:var(--ring);
   --font-sans:'Geist',Arial,sans-serif;--color-card:var(--card);--color-card-foreground:var(--card-foreground);
 }
-html{scroll-behavior:smooth;scroll-padding-top:30px;color-scheme:dark}
+html{scroll-behavior:smooth;scroll-padding-top:30px;color-scheme:light}
 body{margin:0;background:var(--background);color:var(--foreground);font-family:'Geist',Arial,sans-serif;-webkit-font-smoothing:antialiased}
 *{box-sizing:border-box}
 ::selection{background:var(--foreground);color:var(--background)}
-a,button{touch-action:manipulation;-webkit-tap-highlight-color:#f3f0e630;transition:color .2s,background-color .2s,transform .25s}
+a,button{touch-action:manipulation;-webkit-tap-highlight-color:#20282020;transition:color .2s,background-color .2s,transform .25s}
 a:focus-visible,button:focus-visible,[tabindex]:focus-visible{outline:2px solid var(--ring);outline-offset:5px}
 button:active,.button:active{transform:scale(.98)}
 section[id]{scroll-margin-top:30px}
 .shop-masthead{display:grid;grid-template-columns:1fr auto 1fr;align-items:center;gap:30px;padding:37px 0 32px}
 .masthead-note{font-size:11px;line-height:1.9;letter-spacing:.035em;color:var(--muted-foreground)}
 .awning-wordmark{display:block;font-family:'DynaPuff',sans-serif;font-size:clamp(32px,5.4vw,78px);line-height:1.1;font-weight:700;letter-spacing:.015em;text-transform:uppercase;white-space:nowrap;color:var(--background);-webkit-text-stroke:2px var(--foreground);paint-order:stroke fill}
-.awning-wordmark:hover{color:#303a32}
+.awning-wordmark:hover{color:#deddd1}
 .shop-nav{padding:19px 0;border-top:1px solid var(--border);border-bottom:1px solid var(--border)}
 .nav-address{color:var(--muted-foreground)}
 .nav-link{position:relative;padding:4px 0}
@@ -42,17 +42,17 @@ h2{font-size:clamp(44px,4.7vw,65px)}
 .serif{font-family:'Lobster Two',Georgia,serif;font-weight:700;font-style:italic;letter-spacing:-.015em;text-transform:none}
 h1 .serif,h2 .serif{display:inline-block;margin-top:9px;font-size:1.04em;line-height:1.1}
 .button{display:inline-flex;align-items:center;justify-content:center;gap:20px;padding:17px 23px;background:var(--primary);color:var(--primary-foreground);font-size:14px;font-weight:600;border:1px solid var(--primary);border-radius:2px;min-height:50px}
-.button:hover{background:#d9d6ca;border-color:#d9d6ca;transform:translateY(-2px)}
+.button:hover{background:#334036;border-color:#334036;transform:translateY(-2px)}
 .text-link{display:inline-flex;align-items:center;gap:10px;font-weight:500;font-size:14px;text-underline-offset:5px}
 .text-link:hover{text-decoration:underline}
 .hero-signoff{font-size:12px;color:var(--muted-foreground);padding-left:18px;border-left:2px solid #8e6558;line-height:1.8}
-.shop-window-frame{padding:7px;background:#333d35;border:1px solid #5c665c;border-radius:3px;box-shadow:10px 10px 0 #121713}
+.shop-window-frame{padding:7px;background:#dadccf;border:1px solid #a9b09f;border-radius:3px;box-shadow:10px 10px 0 #d2d4c5}
 .hero-photo img{transition:transform .8s cubic-bezier(.16,1,.3,1)}
 .hero-photo:hover img{transform:scale(1.035)}
 .photo-caption>.serif{font-size:23px}
-.food-ribbon{background:#232b25;font-family:'Barlow Condensed',Impact,sans-serif;text-transform:uppercase;font-size:25px;letter-spacing:.08em}
+.food-ribbon{background:#e1e2d7;font-family:'Barlow Condensed',Impact,sans-serif;text-transform:uppercase;font-size:25px;letter-spacing:.08em}
 .food-ribbon span{white-space:nowrap}
-.food-ribbon svg{flex-shrink:0;color:#aaa991}
+.food-ribbon svg{flex-shrink:0;color:#6c745f}
 .menu-tab-list[data-slot="tabs-list"]{display:flex;flex-wrap:wrap;justify-content:flex-start;gap:5px;width:100%;height:auto;padding:7px;border:1px solid var(--border);background:transparent;border-radius:2px}
 .menu-tab[data-slot="tabs-trigger"]{min-height:46px;flex:1;padding:12px 17px;border-radius:1px;color:var(--muted-foreground);transition:color .2s,background-color .2s,transform .2s}
 .menu-tab[data-state="active"]{background:var(--foreground)!important;color:var(--background)!important;box-shadow:none!important}
@@ -64,8 +64,8 @@ h1 .serif,h2 .serif{display:inline-block;margin-top:9px;font-size:1.04em;line-he
 .recipe-image{display:block;width:100%;height:100%;object-fit:cover;transition:transform .65s cubic-bezier(.16,1,.3,1)}
 .recipe-card:hover .recipe-image{transform:scale(1.025)}
 .recipe-description h4{font-family:'Barlow Condensed',Impact,sans-serif;font-size:28px;line-height:1.2;text-transform:uppercase;letter-spacing:.01em}
-.formula-section{background:#ece9de;color:#202820;--border:#bec2b5;--ring:#4d5a49}
-.formula-muted,.formula-row p{color:#52604f}
+.formula-section{background:#191f1c;color:#f3f0e6;--background:#191f1c;--foreground:#f3f0e6;--border:#424c44;--muted-foreground:#b8c0b8;--ring:#ded7c3;color-scheme:dark}
+.formula-muted,.formula-row p{color:#b8c0b8}
 .formula-price{font-family:'Barlow Condensed',Impact,sans-serif;font-weight:700;font-variant-numeric:tabular-nums}
 .formula-price>span:first-child{font-size:110px;line-height:.9;letter-spacing:-.025em}
 .formula-price .price-currency{font-size:50px}
@@ -75,19 +75,11 @@ h1 .serif,h2 .serif{display:inline-block;margin-top:9px;font-size:1.04em;line-he
 .formula-number{font-family:'Lobster Two',Georgia,serif;font-style:italic;font-weight:700;font-size:25px;padding-top:2px}
 .formula-row h3{font-family:'Barlow Condensed',Impact,sans-serif;font-size:35px;font-weight:700;text-transform:uppercase;line-height:1.1}
 .formula-row p{line-height:1.7;font-size:15px;margin-top:9px}
-.storefront-sign{display:flex;flex-direction:column;align-items:center;justify-content:center;padding:34px 20px 28px;border:1px solid #586151;outline:1px solid #586151;outline-offset:-9px;background:#151b17;box-shadow:inset 0 -7px 0 #583b32}
-.shop-seal{width:min(100%,360px);height:auto;color:#eeeede;overflow:visible}
-.shop-seal text{fill:currentColor}
-.seal-script{font-family:'Lobster Two',Georgia,serif;font-style:italic;font-weight:700}
-.seal-name{font-size:42px}
-.seal-center{fill:#151b17}
-.seal-ampersand{font-size:67px}
-.seal-flavour{font-size:22px}
-.seal-date{font-family:'Barlow Condensed',Impact,sans-serif;font-size:27px;font-weight:700}
-.seal-tagline{font-family:'Barlow Condensed',Impact,sans-serif;font-size:27px;font-weight:700;letter-spacing:1px}
+.storefront-sign{display:flex;flex-direction:column;align-items:center;justify-content:center;padding:34px 20px 28px;border:1px solid var(--border);outline:1px solid var(--border);outline-offset:-9px;background:var(--background);box-shadow:inset 0 -7px 0 #d0c5b6}
+.shop-seal{display:block;width:min(100%,440px);height:auto}
 .storefront-caption{margin-top:10px;color:var(--muted-foreground);font-size:11px;letter-spacing:.12em;text-transform:uppercase}
 .footer-wordmark{font-size:27px;-webkit-text-stroke:1px var(--foreground)}
-.skip-link{position:fixed;top:10px;left:10px;transform:translateY(-200%);z-index:50;padding:15px;background:var(--primary);color:var(--background)}
+.skip-link{position:fixed;top:10px;left:10px;transform:translateY(-200%);z-index:50;padding:15px;background:var(--primary);color:var(--primary-foreground)}
 .skip-link:focus{transform:translateY(0)}
 @media(min-width:768px){
   .recipe-card:last-child:nth-child(odd){grid-column:1/-1}

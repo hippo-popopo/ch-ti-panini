@@ -4,9 +4,9 @@ Site vitrine français pour le commerce au 280 rue Nationale à Lille.
 
 ## Identité de la boutique
 
-L’identité reprend la photo de devanture fournie, conservée dans `references/brand/boutique-reference.jpg` : fond anthracite vert, lettrage ivoire, nom arrondi en contour blanc inspiré de l’enseigne supérieure, et signature manuscrite de la vitre. DynaPuff interprète le lettrage de l’enseigne ; Lobster Two et Barlow Condensed accompagnent les titres. Les trois polices sont hébergées localement. Il s’agit d’une interprétation numérique, pas du fichier original du logo.
+L’identité reprend la photo de devanture fournie, conservée dans `references/brand/boutique-reference.jpg`. À la demande du client, le site utilise le fond ivoire clair de l’ancienne section Prem’s, du texte anthracite et réserve le fond sombre au menu Prem’s. Le nom en contour reprend le lettrage de l’enseigne supérieure. DynaPuff interprète ce lettrage ; Lobster Two et Barlow Condensed accompagnent les titres. Les trois polices sont hébergées localement.
 
-Le macaron « Sucré & Salé », sa bordure dentelée, « depuis 2004 » et « L’incontournable » sont repris en SVG dans `app/brand-seal.tsx`. La mention de la boutique unique provient de l’utilisateur et la date de la photographie fournie.
+Le logo du bas est restauré avec l’outil imagegen intégré depuis la photo plus précise `references/brand/boutique-logo-reference.jpg`, puis optimisé en WebP transparent. Le grand S est commun aux mots « Sucrés » et « Salés » et accompagné du mot « et » ; le nom arqué, le macaron ondulé, les mentions « depuis 2004 » et « L’incontournable », ainsi que le pain sont repris de la photo. `app/brand-seal.tsx` affiche `public/images/brand/au-chti-panini-logo.webp`. C’est une restauration depuis photographie, pas le fichier source original. La mention de la boutique unique provient de l’utilisateur et la date de la photographie fournie.
 
 ## Développement
 

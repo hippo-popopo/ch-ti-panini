@@ -1,0 +1,517 @@
+[
+  {
+    "index": 1,
+    "id": "le-chti",
+    "name": "Le Ch’ti",
+    "ingredients": "Jambon, mozzarella, tomates, maroilles",
+    "image": "/images/menu/le-chti.webp",
+    "model": "gpt_image_2_5",
+    "status": "submission_failed",
+    "prompt": "Use case: photorealistic-natural. Premium restaurant menu food photography, a unique image of a single panini recipe. Input reference is ONLY for bread geometry, NEVER copy its graphics, logo, typography, composition or cartoon treatment. BREAD GEOMETRY IS CRITICAL: one SHORT-TO-MEDIUM oval pressed panini approximately 18cm long by 8cm wide, width-to-length ratio 1:2.2, pale smooth flat soft bread with parallel golden grill lines. NOT a baguette, NOT a long narrow roll, NOT a round artisan loaf, no flour-dusted rustic crust. One diagonal cut makes exactly TWO halves of ONE sandwich, arranged nearly together so the original whole compact oval silhouette remains obvious while cut faces show the filling. Elevated 45-degree camera, appetizing premium realistic food texture. Sandwich centered with generous breathing room, on warm cream deli paper on a neutral cream matte background, soft warm sidelight and delicate natural shadow. Entire sandwich visible, no cropping. No plates, no cutlery, no hands, no packaging, no typography, no logos, no watermarks, no UI, no graphic mockup. Exact recipe ingredients only; every listed ingredient should be discernible where feasible in the cut face and natural exposed edges. Tiny unbranded cue beside sandwich allowed only for a listed ingredient. No arbitrary garnish, no extra ingredient. Recipe Le Ch’ti. Original ingredients: Jambon, mozzarella, tomates, maroilles. FILLING: Thin folded pink cooked ham, melted mozzarella, ripe tomato slices and creamy orange-rind Maroilles cheese.  Landscape 4:3 image.",
+    "error": "Requires basic plan or higher.",
+    "adjustments": {
+      "medias[0].role": {
+        "requested": "image",
+        "used": "image_references",
+        "reason": "GPT Image 2.5 backend expects schema-key media roles"
+      }
+    }
+  },
+  {
+    "index": 2,
+    "id": "le-chevre",
+    "name": "Le Chèvre",
+    "ingredients": "Chèvre, mozzarella, tomates, basilic, huile d’olive",
+    "image": "/images/menu/le-chevre.webp",
+    "model": "gpt_image_2_5",
+    "status": "submission_failed",
+    "prompt": "Use case: photorealistic-natural. Premium restaurant menu food photography, a unique image of a single panini recipe. Input reference is ONLY for bread geometry, NEVER copy its graphics, logo, typography, composition or cartoon treatment. BREAD GEOMETRY IS CRITICAL: one SHORT-TO-MEDIUM oval pressed panini approximately 18cm long by 8cm wide, width-to-length ratio 1:2.2, pale smooth flat soft bread with parallel golden grill lines. NOT a baguette, NOT a long narrow roll, NOT a round artisan loaf, no flour-dusted rustic crust. One diagonal cut makes exactly TWO halves of ONE sandwich, arranged nearly together so the original whole compact oval silhouette remains obvious while cut faces show the filling. Elevated 45-degree camera, appetizing premium realistic food texture. Sandwich centered with generous breathing room, on warm cream deli paper on a neutral cream matte background, soft warm sidelight and delicate natural shadow. Entire sandwich visible, no cropping. No plates, no cutlery, no hands, no packaging, no typography, no logos, no watermarks, no UI, no graphic mockup. Exact recipe ingredients only; every listed ingredient should be discernible where feasible in the cut face and natural exposed edges. Tiny unbranded cue beside sandwich allowed only for a listed ingredient. No arbitrary garnish, no extra ingredient. Recipe Le Chèvre. Original ingredients: Chèvre, mozzarella, tomates, basilic, huile d’olive. FILLING: Soft white goat-cheese rounds, melted mozzarella, ripe tomato slices, basil leaves and olive oil sheen.  Landscape 4:3 image.",
+    "error": "Requires basic plan or higher.",
+    "adjustments": {
+      "medias[0].role": {
+        "requested": "image",
+        "used": "image_references",
+        "reason": "GPT Image 2.5 backend expects schema-key media roles"
+      }
+    }
+  },
+  {
+    "index": 3,
+    "id": "le-3-fromages",
+    "name": "Le 3 Fromages",
+    "ingredients": "Gorgonzola, mozzarella, chèvre",
+    "image": "/images/menu/le-3-fromages.webp",
+    "model": "gpt_image_2_5",
+    "status": "submission_failed",
+    "prompt": "Use case: photorealistic-natural. Premium restaurant menu food photography, a unique image of a single panini recipe. Input reference is ONLY for bread geometry, NEVER copy its graphics, logo, typography, composition or cartoon treatment. BREAD GEOMETRY IS CRITICAL: one SHORT-TO-MEDIUM oval pressed panini approximately 18cm long by 8cm wide, width-to-length ratio 1:2.2, pale smooth flat soft bread with parallel golden grill lines. NOT a baguette, NOT a long narrow roll, NOT a round artisan loaf, no flour-dusted rustic crust. One diagonal cut makes exactly TWO halves of ONE sandwich, arranged nearly together so the original whole compact oval silhouette remains obvious while cut faces show the filling. Elevated 45-degree camera, appetizing premium realistic food texture. Sandwich centered with generous breathing room, on warm cream deli paper on a neutral cream matte background, soft warm sidelight and delicate natural shadow. Entire sandwich visible, no cropping. No plates, no cutlery, no hands, no packaging, no typography, no logos, no watermarks, no UI, no graphic mockup. Exact recipe ingredients only; every listed ingredient should be discernible where feasible in the cut face and natural exposed edges. Tiny unbranded cue beside sandwich allowed only for a listed ingredient. No arbitrary garnish, no extra ingredient. Recipe Le 3 Fromages. Original ingredients: Gorgonzola, mozzarella, chèvre. FILLING: Blue-veined Gorgonzola, melted mozzarella and white goat cheese; three distinct cheese textures. No tomato, herbs or meat.  Landscape 4:3 image.",
+    "error": "Requires basic plan or higher.",
+    "adjustments": {
+      "medias[0].role": {
+        "requested": "image",
+        "used": "image_references",
+        "reason": "GPT Image 2.5 backend expects schema-key media roles"
+      }
+    }
+  },
+  {
+    "index": 4,
+    "id": "le-maya",
+    "name": "Le Maya",
+    "ingredients": "Chèvre, miel, noix, mozzarella",
+    "image": "/images/menu/le-maya.webp",
+    "model": "gpt_image_2_5",
+    "status": "submission_failed",
+    "prompt": "Use case: photorealistic-natural. Premium restaurant menu food photography, a unique image of a single panini recipe. Input reference is ONLY for bread geometry, NEVER copy its graphics, logo, typography, composition or cartoon treatment. BREAD GEOMETRY IS CRITICAL: one SHORT-TO-MEDIUM oval pressed panini approximately 18cm long by 8cm wide, width-to-length ratio 1:2.2, pale smooth flat soft bread with parallel golden grill lines. NOT a baguette, NOT a long narrow roll, NOT a round artisan loaf, no flour-dusted rustic crust. One diagonal cut makes exactly TWO halves of ONE sandwich, arranged nearly together so the original whole compact oval silhouette remains obvious while cut faces show the filling. Elevated 45-degree camera, appetizing premium realistic food texture. Sandwich centered with generous breathing room, on warm cream deli paper on a neutral cream matte background, soft warm sidelight and delicate natural shadow. Entire sandwich visible, no cropping. No plates, no cutlery, no hands, no packaging, no typography, no logos, no watermarks, no UI, no graphic mockup. Exact recipe ingredients only; every listed ingredient should be discernible where feasible in the cut face and natural exposed edges. Tiny unbranded cue beside sandwich allowed only for a listed ingredient. No arbitrary garnish, no extra ingredient. Recipe Le Maya. Original ingredients: Chèvre, miel, noix, mozzarella. FILLING: White goat cheese, amber honey, walnut pieces and melted mozzarella. No herbs or tomato.  Landscape 4:3 image.",
+    "error": "Requires basic plan or higher.",
+    "adjustments": {
+      "medias[0].role": {
+        "requested": "image",
+        "used": "image_references",
+        "reason": "GPT Image 2.5 backend expects schema-key media roles"
+      }
+    }
+  },
+  {
+    "index": 5,
+    "id": "le-savoyard",
+    "name": "Le Savoyard",
+    "ingredients": "Lardons, mozzarella, raclette, pomme de terre",
+    "image": "/images/menu/le-savoyard.webp",
+    "model": "gpt_image_2_5",
+    "status": "submission_failed",
+    "prompt": "Use case: photorealistic-natural. Premium restaurant menu food photography, a unique image of a single panini recipe. Input reference is ONLY for bread geometry, NEVER copy its graphics, logo, typography, composition or cartoon treatment. BREAD GEOMETRY IS CRITICAL: one SHORT-TO-MEDIUM oval pressed panini approximately 18cm long by 8cm wide, width-to-length ratio 1:2.2, pale smooth flat soft bread with parallel golden grill lines. NOT a baguette, NOT a long narrow roll, NOT a round artisan loaf, no flour-dusted rustic crust. One diagonal cut makes exactly TWO halves of ONE sandwich, arranged nearly together so the original whole compact oval silhouette remains obvious while cut faces show the filling. Elevated 45-degree camera, appetizing premium realistic food texture. Sandwich centered with generous breathing room, on warm cream deli paper on a neutral cream matte background, soft warm sidelight and delicate natural shadow. Entire sandwich visible, no cropping. No plates, no cutlery, no hands, no packaging, no typography, no logos, no watermarks, no UI, no graphic mockup. Exact recipe ingredients only; every listed ingredient should be discernible where feasible in the cut face and natural exposed edges. Tiny unbranded cue beside sandwich allowed only for a listed ingredient. No arbitrary garnish, no extra ingredient. Recipe Le Savoyard. Original ingredients: Lardons, mozzarella, raclette, pomme de terre. FILLING: Small browned bacon lardons, melted mozzarella, creamy melted raclette and tender potato slices.  Landscape 4:3 image.",
+    "error": "Requires basic plan or higher.",
+    "adjustments": {
+      "medias[0].role": {
+        "requested": "image",
+        "used": "image_references",
+        "reason": "GPT Image 2.5 backend expects schema-key media roles"
+      }
+    }
+  },
+  {
+    "index": 6,
+    "id": "lindien",
+    "name": "L’Indien",
+    "ingredients": "Poulet, mozzarella, tomates, sauce curry",
+    "image": "/images/menu/lindien.webp",
+    "model": "gpt_image_2_5",
+    "status": "submission_failed",
+    "prompt": "Use case: photorealistic-natural. Premium restaurant menu food photography, a unique image of a single panini recipe. Input reference is ONLY for bread geometry, NEVER copy its graphics, logo, typography, composition or cartoon treatment. BREAD GEOMETRY IS CRITICAL: one SHORT-TO-MEDIUM oval pressed panini approximately 18cm long by 8cm wide, width-to-length ratio 1:2.2, pale smooth flat soft bread with parallel golden grill lines. NOT a baguette, NOT a long narrow roll, NOT a round artisan loaf, no flour-dusted rustic crust. One diagonal cut makes exactly TWO halves of ONE sandwich, arranged nearly together so the original whole compact oval silhouette remains obvious while cut faces show the filling. Elevated 45-degree camera, appetizing premium realistic food texture. Sandwich centered with generous breathing room, on warm cream deli paper on a neutral cream matte background, soft warm sidelight and delicate natural shadow. Entire sandwich visible, no cropping. No plates, no cutlery, no hands, no packaging, no typography, no logos, no watermarks, no UI, no graphic mockup. Exact recipe ingredients only; every listed ingredient should be discernible where feasible in the cut face and natural exposed edges. Tiny unbranded cue beside sandwich allowed only for a listed ingredient. No arbitrary garnish, no extra ingredient. Recipe L’Indien. Original ingredients: Poulet, mozzarella, tomates, sauce curry. FILLING: Cooked chicken pieces, melted mozzarella, tomato slices and golden yellow curry sauce.  Landscape 4:3 image.",
+    "error": "Requires basic plan or higher.",
+    "adjustments": {
+      "medias[0].role": {
+        "requested": "image",
+        "used": "image_references",
+        "reason": "GPT Image 2.5 backend expects schema-key media roles"
+      }
+    }
+  },
+  {
+    "index": 7,
+    "id": "le-texan",
+    "name": "Le Texan",
+    "ingredients": "Poulet, mozzarella, cheddar, sauce barbecue",
+    "image": "/images/menu/le-texan.webp",
+    "model": "gpt_image_2_5",
+    "status": "blocked_before_submission",
+    "prompt": "Use case: photorealistic-natural. Premium restaurant menu food photography, a unique image of a single panini recipe. Input reference is ONLY for bread geometry, NEVER copy its graphics, logo, typography, composition or cartoon treatment. BREAD GEOMETRY IS CRITICAL: one SHORT-TO-MEDIUM oval pressed panini approximately 18cm long by 8cm wide, width-to-length ratio 1:2.2, pale smooth flat soft bread with parallel golden grill lines. NOT a baguette, NOT a long narrow roll, NOT a round artisan loaf, no flour-dusted rustic crust. One diagonal cut makes exactly TWO halves of ONE sandwich, arranged nearly together so the original whole compact oval silhouette remains obvious while cut faces show the filling. Elevated 45-degree camera, appetizing premium realistic food texture. Sandwich centered with generous breathing room, on warm cream deli paper on a neutral cream matte background, soft warm sidelight and delicate natural shadow. Entire sandwich visible, no cropping. No plates, no cutlery, no hands, no packaging, no typography, no logos, no watermarks, no UI, no graphic mockup. Exact recipe ingredients only; every listed ingredient should be discernible where feasible in the cut face and natural exposed edges. Tiny unbranded cue beside sandwich allowed only for a listed ingredient. No arbitrary garnish, no extra ingredient. Recipe Le Texan. Original ingredients: Poulet, mozzarella, cheddar, sauce barbecue. FILLING: Cooked chicken pieces, melted mozzarella, orange cheddar and dark glossy barbecue sauce.  Landscape 4:3 image.",
+    "error": "Requires basic plan or higher (account restriction returned for indices 1–6)."
+  },
+  {
+    "index": 8,
+    "id": "le-marbella",
+    "name": "Le Marbella",
+    "ingredients": "Poulet, mozzarella, cheddar, tomates, sauce andalouse",
+    "image": "/images/menu/le-marbella.webp",
+    "model": "gpt_image_2_5",
+    "status": "blocked_before_submission",
+    "prompt": "Use case: photorealistic-natural. Premium restaurant menu food photography, a unique image of a single panini recipe. Input reference is ONLY for bread geometry, NEVER copy its graphics, logo, typography, composition or cartoon treatment. BREAD GEOMETRY IS CRITICAL: one SHORT-TO-MEDIUM oval pressed panini approximately 18cm long by 8cm wide, width-to-length ratio 1:2.2, pale smooth flat soft bread with parallel golden grill lines. NOT a baguette, NOT a long narrow roll, NOT a round artisan loaf, no flour-dusted rustic crust. One diagonal cut makes exactly TWO halves of ONE sandwich, arranged nearly together so the original whole compact oval silhouette remains obvious while cut faces show the filling. Elevated 45-degree camera, appetizing premium realistic food texture. Sandwich centered with generous breathing room, on warm cream deli paper on a neutral cream matte background, soft warm sidelight and delicate natural shadow. Entire sandwich visible, no cropping. No plates, no cutlery, no hands, no packaging, no typography, no logos, no watermarks, no UI, no graphic mockup. Exact recipe ingredients only; every listed ingredient should be discernible where feasible in the cut face and natural exposed edges. Tiny unbranded cue beside sandwich allowed only for a listed ingredient. No arbitrary garnish, no extra ingredient. Recipe Le Marbella. Original ingredients: Poulet, mozzarella, cheddar, tomates, sauce andalouse. FILLING: Cooked chicken pieces, melted mozzarella, orange cheddar, tomato slices and pale orange Andalouse sauce.  Landscape 4:3 image.",
+    "error": "Requires basic plan or higher (account restriction returned for indices 1–6)."
+  },
+  {
+    "index": 9,
+    "id": "le-capri",
+    "name": "Le Capri",
+    "ingredients": "Poulet, mozzarella, tomates, olives, herbes de Provence, huile d’olive",
+    "image": "/images/menu/le-capri.webp",
+    "model": "gpt_image_2_5",
+    "status": "blocked_before_submission",
+    "prompt": "Use case: photorealistic-natural. Premium restaurant menu food photography, a unique image of a single panini recipe. Input reference is ONLY for bread geometry, NEVER copy its graphics, logo, typography, composition or cartoon treatment. BREAD GEOMETRY IS CRITICAL: one SHORT-TO-MEDIUM oval pressed panini approximately 18cm long by 8cm wide, width-to-length ratio 1:2.2, pale smooth flat soft bread with parallel golden grill lines. NOT a baguette, NOT a long narrow roll, NOT a round artisan loaf, no flour-dusted rustic crust. One diagonal cut makes exactly TWO halves of ONE sandwich, arranged nearly together so the original whole compact oval silhouette remains obvious while cut faces show the filling. Elevated 45-degree camera, appetizing premium realistic food texture. Sandwich centered with generous breathing room, on warm cream deli paper on a neutral cream matte background, soft warm sidelight and delicate natural shadow. Entire sandwich visible, no cropping. No plates, no cutlery, no hands, no packaging, no typography, no logos, no watermarks, no UI, no graphic mockup. Exact recipe ingredients only; every listed ingredient should be discernible where feasible in the cut face and natural exposed edges. Tiny unbranded cue beside sandwich allowed only for a listed ingredient. No arbitrary garnish, no extra ingredient. Recipe Le Capri. Original ingredients: Poulet, mozzarella, tomates, olives, herbes de Provence, huile d’olive. FILLING: Cooked chicken pieces, melted mozzarella, tomato slices, dark olives, herbes de Provence and olive oil.  Landscape 4:3 image.",
+    "error": "Requires basic plan or higher (account restriction returned for indices 1–6)."
+  },
+  {
+    "index": 10,
+    "id": "le-mezzo",
+    "name": "Le Mezzo",
+    "ingredients": "Poulet, mozzarella, tomates, sauce pesto",
+    "image": "/images/menu/le-mezzo.webp",
+    "model": "gpt_image_2_5",
+    "status": "blocked_before_submission",
+    "prompt": "Use case: photorealistic-natural. Premium restaurant menu food photography, a unique image of a single panini recipe. Input reference is ONLY for bread geometry, NEVER copy its graphics, logo, typography, composition or cartoon treatment. BREAD GEOMETRY IS CRITICAL: one SHORT-TO-MEDIUM oval pressed panini approximately 18cm long by 8cm wide, width-to-length ratio 1:2.2, pale smooth flat soft bread with parallel golden grill lines. NOT a baguette, NOT a long narrow roll, NOT a round artisan loaf, no flour-dusted rustic crust. One diagonal cut makes exactly TWO halves of ONE sandwich, arranged nearly together so the original whole compact oval silhouette remains obvious while cut faces show the filling. Elevated 45-degree camera, appetizing premium realistic food texture. Sandwich centered with generous breathing room, on warm cream deli paper on a neutral cream matte background, soft warm sidelight and delicate natural shadow. Entire sandwich visible, no cropping. No plates, no cutlery, no hands, no packaging, no typography, no logos, no watermarks, no UI, no graphic mockup. Exact recipe ingredients only; every listed ingredient should be discernible where feasible in the cut face and natural exposed edges. Tiny unbranded cue beside sandwich allowed only for a listed ingredient. No arbitrary garnish, no extra ingredient. Recipe Le Mezzo. Original ingredients: Poulet, mozzarella, tomates, sauce pesto. FILLING: Cooked chicken pieces, melted mozzarella, tomato slices and vibrant green pesto sauce.  Landscape 4:3 image.",
+    "error": "Requires basic plan or higher (account restriction returned for indices 1–6)."
+  },
+  {
+    "index": 11,
+    "id": "le-croq",
+    "name": "Le Croq",
+    "ingredients": "Jambon, fromage — nature, ketchup ou barbecue",
+    "image": "/images/menu/le-croq.webp",
+    "model": "gpt_image_2_5",
+    "status": "blocked_before_submission",
+    "prompt": "Use case: photorealistic-natural. Premium restaurant menu food photography, a unique image of a single panini recipe. Input reference is ONLY for bread geometry, NEVER copy its graphics, logo, typography, composition or cartoon treatment. BREAD GEOMETRY IS CRITICAL: one SHORT-TO-MEDIUM oval pressed panini approximately 18cm long by 8cm wide, width-to-length ratio 1:2.2, pale smooth flat soft bread with parallel golden grill lines. NOT a baguette, NOT a long narrow roll, NOT a round artisan loaf, no flour-dusted rustic crust. One diagonal cut makes exactly TWO halves of ONE sandwich, arranged nearly together so the original whole compact oval silhouette remains obvious while cut faces show the filling. Elevated 45-degree camera, appetizing premium realistic food texture. Sandwich centered with generous breathing room, on warm cream deli paper on a neutral cream matte background, soft warm sidelight and delicate natural shadow. Entire sandwich visible, no cropping. No plates, no cutlery, no hands, no packaging, no typography, no logos, no watermarks, no UI, no graphic mockup. Exact recipe ingredients only; every listed ingredient should be discernible where feasible in the cut face and natural exposed edges. Tiny unbranded cue beside sandwich allowed only for a listed ingredient. No arbitrary garnish, no extra ingredient. Recipe Le Croq. Original ingredients: Jambon, fromage — nature, ketchup ou barbecue. FILLING: Folded pink cooked ham and melted plain cheese ONLY. Nature version: no ketchup, no barbecue, no tomato or herbs.  Landscape 4:3 image.",
+    "error": "Requires basic plan or higher (account restriction returned for indices 1–6)."
+  },
+  {
+    "index": 12,
+    "id": "le-parisien",
+    "name": "Le Parisien",
+    "ingredients": "Jambon, fromage, tomates fraîches",
+    "image": "/images/menu/le-parisien.webp",
+    "model": "gpt_image_2_5",
+    "status": "blocked_before_submission",
+    "prompt": "Use case: photorealistic-natural. Premium restaurant menu food photography, a unique image of a single panini recipe. Input reference is ONLY for bread geometry, NEVER copy its graphics, logo, typography, composition or cartoon treatment. BREAD GEOMETRY IS CRITICAL: one SHORT-TO-MEDIUM oval pressed panini approximately 18cm long by 8cm wide, width-to-length ratio 1:2.2, pale smooth flat soft bread with parallel golden grill lines. NOT a baguette, NOT a long narrow roll, NOT a round artisan loaf, no flour-dusted rustic crust. One diagonal cut makes exactly TWO halves of ONE sandwich, arranged nearly together so the original whole compact oval silhouette remains obvious while cut faces show the filling. Elevated 45-degree camera, appetizing premium realistic food texture. Sandwich centered with generous breathing room, on warm cream deli paper on a neutral cream matte background, soft warm sidelight and delicate natural shadow. Entire sandwich visible, no cropping. No plates, no cutlery, no hands, no packaging, no typography, no logos, no watermarks, no UI, no graphic mockup. Exact recipe ingredients only; every listed ingredient should be discernible where feasible in the cut face and natural exposed edges. Tiny unbranded cue beside sandwich allowed only for a listed ingredient. No arbitrary garnish, no extra ingredient. Recipe Le Parisien. Original ingredients: Jambon, fromage, tomates fraîches. FILLING: Folded pink cooked ham, melted cheese and fresh tomato slices.  Landscape 4:3 image.",
+    "error": "Requires basic plan or higher (account restriction returned for indices 1–6)."
+  },
+  {
+    "index": 13,
+    "id": "le-milano",
+    "name": "Le Milano",
+    "ingredients": "Jambon, fromage, tomates fraîches, sauce pesto",
+    "image": "/images/menu/le-milano.webp",
+    "model": "gpt_image_2_5",
+    "status": "blocked_before_submission",
+    "prompt": "Use case: photorealistic-natural. Premium restaurant menu food photography, a unique image of a single panini recipe. Input reference is ONLY for bread geometry, NEVER copy its graphics, logo, typography, composition or cartoon treatment. BREAD GEOMETRY IS CRITICAL: one SHORT-TO-MEDIUM oval pressed panini approximately 18cm long by 8cm wide, width-to-length ratio 1:2.2, pale smooth flat soft bread with parallel golden grill lines. NOT a baguette, NOT a long narrow roll, NOT a round artisan loaf, no flour-dusted rustic crust. One diagonal cut makes exactly TWO halves of ONE sandwich, arranged nearly together so the original whole compact oval silhouette remains obvious while cut faces show the filling. Elevated 45-degree camera, appetizing premium realistic food texture. Sandwich centered with generous breathing room, on warm cream deli paper on a neutral cream matte background, soft warm sidelight and delicate natural shadow. Entire sandwich visible, no cropping. No plates, no cutlery, no hands, no packaging, no typography, no logos, no watermarks, no UI, no graphic mockup. Exact recipe ingredients only; every listed ingredient should be discernible where feasible in the cut face and natural exposed edges. Tiny unbranded cue beside sandwich allowed only for a listed ingredient. No arbitrary garnish, no extra ingredient. Recipe Le Milano. Original ingredients: Jambon, fromage, tomates fraîches, sauce pesto. FILLING: Folded pink cooked ham, melted cheese, fresh tomato slices and green pesto sauce.  Landscape 4:3 image.",
+    "error": "Requires basic plan or higher (account restriction returned for indices 1–6)."
+  },
+  {
+    "index": 14,
+    "id": "le-roma",
+    "name": "Le Roma",
+    "ingredients": "Jambon, fromage, champignons",
+    "image": "/images/menu/le-roma.webp",
+    "model": "gpt_image_2_5",
+    "status": "blocked_before_submission",
+    "prompt": "Use case: photorealistic-natural. Premium restaurant menu food photography, a unique image of a single panini recipe. Input reference is ONLY for bread geometry, NEVER copy its graphics, logo, typography, composition or cartoon treatment. BREAD GEOMETRY IS CRITICAL: one SHORT-TO-MEDIUM oval pressed panini approximately 18cm long by 8cm wide, width-to-length ratio 1:2.2, pale smooth flat soft bread with parallel golden grill lines. NOT a baguette, NOT a long narrow roll, NOT a round artisan loaf, no flour-dusted rustic crust. One diagonal cut makes exactly TWO halves of ONE sandwich, arranged nearly together so the original whole compact oval silhouette remains obvious while cut faces show the filling. Elevated 45-degree camera, appetizing premium realistic food texture. Sandwich centered with generous breathing room, on warm cream deli paper on a neutral cream matte background, soft warm sidelight and delicate natural shadow. Entire sandwich visible, no cropping. No plates, no cutlery, no hands, no packaging, no typography, no logos, no watermarks, no UI, no graphic mockup. Exact recipe ingredients only; every listed ingredient should be discernible where feasible in the cut face and natural exposed edges. Tiny unbranded cue beside sandwich allowed only for a listed ingredient. No arbitrary garnish, no extra ingredient. Recipe Le Roma. Original ingredients: Jambon, fromage, champignons. FILLING: Folded pink cooked ham, melted cheese and cooked mushroom slices.  Landscape 4:3 image.",
+    "error": "Requires basic plan or higher (account restriction returned for indices 1–6)."
+  },
+  {
+    "index": 15,
+    "id": "le-forestier",
+    "name": "Le Forestier",
+    "ingredients": "Jambon, fromage, champignons, crème fraîche",
+    "image": "/images/menu/le-forestier.webp",
+    "model": "gpt_image_2_5",
+    "status": "blocked_before_submission",
+    "prompt": "Use case: photorealistic-natural. Premium restaurant menu food photography, a unique image of a single panini recipe. Input reference is ONLY for bread geometry, NEVER copy its graphics, logo, typography, composition or cartoon treatment. BREAD GEOMETRY IS CRITICAL: one SHORT-TO-MEDIUM oval pressed panini approximately 18cm long by 8cm wide, width-to-length ratio 1:2.2, pale smooth flat soft bread with parallel golden grill lines. NOT a baguette, NOT a long narrow roll, NOT a round artisan loaf, no flour-dusted rustic crust. One diagonal cut makes exactly TWO halves of ONE sandwich, arranged nearly together so the original whole compact oval silhouette remains obvious while cut faces show the filling. Elevated 45-degree camera, appetizing premium realistic food texture. Sandwich centered with generous breathing room, on warm cream deli paper on a neutral cream matte background, soft warm sidelight and delicate natural shadow. Entire sandwich visible, no cropping. No plates, no cutlery, no hands, no packaging, no typography, no logos, no watermarks, no UI, no graphic mockup. Exact recipe ingredients only; every listed ingredient should be discernible where feasible in the cut face and natural exposed edges. Tiny unbranded cue beside sandwich allowed only for a listed ingredient. No arbitrary garnish, no extra ingredient. Recipe Le Forestier. Original ingredients: Jambon, fromage, champignons, crème fraîche. FILLING: Folded pink cooked ham, melted cheese, cooked mushroom slices and thick crème fraîche.  Landscape 4:3 image.",
+    "error": "Requires basic plan or higher (account restriction returned for indices 1–6)."
+  },
+  {
+    "index": 16,
+    "id": "le-burger",
+    "name": "Le Burger",
+    "ingredients": "Viande hachée, mozzarella, sauce burger, ketchup, cheddar",
+    "image": "/images/menu/le-burger.webp",
+    "model": "gpt_image_2_5",
+    "status": "blocked_before_submission",
+    "prompt": "Use case: photorealistic-natural. Premium restaurant menu food photography, a unique image of a single panini recipe. Input reference is ONLY for bread geometry, NEVER copy its graphics, logo, typography, composition or cartoon treatment. BREAD GEOMETRY IS CRITICAL: one SHORT-TO-MEDIUM oval pressed panini approximately 18cm long by 8cm wide, width-to-length ratio 1:2.2, pale smooth flat soft bread with parallel golden grill lines. NOT a baguette, NOT a long narrow roll, NOT a round artisan loaf, no flour-dusted rustic crust. One diagonal cut makes exactly TWO halves of ONE sandwich, arranged nearly together so the original whole compact oval silhouette remains obvious while cut faces show the filling. Elevated 45-degree camera, appetizing premium realistic food texture. Sandwich centered with generous breathing room, on warm cream deli paper on a neutral cream matte background, soft warm sidelight and delicate natural shadow. Entire sandwich visible, no cropping. No plates, no cutlery, no hands, no packaging, no typography, no logos, no watermarks, no UI, no graphic mockup. Exact recipe ingredients only; every listed ingredient should be discernible where feasible in the cut face and natural exposed edges. Tiny unbranded cue beside sandwich allowed only for a listed ingredient. No arbitrary garnish, no extra ingredient. Recipe Le Burger. Original ingredients: Viande hachée, mozzarella, sauce burger, ketchup, cheddar. FILLING: Browned minced beef, melted mozzarella, creamy burger sauce, red ketchup and orange cheddar.  Landscape 4:3 image.",
+    "error": "Requires basic plan or higher (account restriction returned for indices 1–6)."
+  },
+  {
+    "index": 17,
+    "id": "le-spicy",
+    "name": "Le Spicy",
+    "ingredients": "Viande hachée, mozzarella, sauce samouraï, oignons frits, cheddar, ketchup",
+    "image": "/images/menu/le-spicy.webp",
+    "model": "gpt_image_2_5",
+    "status": "blocked_before_submission",
+    "prompt": "Use case: photorealistic-natural. Premium restaurant menu food photography, a unique image of a single panini recipe. Input reference is ONLY for bread geometry, NEVER copy its graphics, logo, typography, composition or cartoon treatment. BREAD GEOMETRY IS CRITICAL: one SHORT-TO-MEDIUM oval pressed panini approximately 18cm long by 8cm wide, width-to-length ratio 1:2.2, pale smooth flat soft bread with parallel golden grill lines. NOT a baguette, NOT a long narrow roll, NOT a round artisan loaf, no flour-dusted rustic crust. One diagonal cut makes exactly TWO halves of ONE sandwich, arranged nearly together so the original whole compact oval silhouette remains obvious while cut faces show the filling. Elevated 45-degree camera, appetizing premium realistic food texture. Sandwich centered with generous breathing room, on warm cream deli paper on a neutral cream matte background, soft warm sidelight and delicate natural shadow. Entire sandwich visible, no cropping. No plates, no cutlery, no hands, no packaging, no typography, no logos, no watermarks, no UI, no graphic mockup. Exact recipe ingredients only; every listed ingredient should be discernible where feasible in the cut face and natural exposed edges. Tiny unbranded cue beside sandwich allowed only for a listed ingredient. No arbitrary garnish, no extra ingredient. Recipe Le Spicy. Original ingredients: Viande hachée, mozzarella, sauce samouraï, oignons frits, cheddar, ketchup. FILLING: Browned minced beef, melted mozzarella, spicy orange samourai sauce, crispy fried onions, orange cheddar and red ketchup.  Landscape 4:3 image.",
+    "error": "Requires basic plan or higher (account restriction returned for indices 1–6)."
+  },
+  {
+    "index": 18,
+    "id": "le-colorado",
+    "name": "Le Colorado",
+    "ingredients": "Viande hachée, mozzarella, bacon, sauce barbecue, cheddar, oignons frits",
+    "image": "/images/menu/le-colorado.webp",
+    "model": "gpt_image_2_5",
+    "status": "blocked_before_submission",
+    "prompt": "Use case: photorealistic-natural. Premium restaurant menu food photography, a unique image of a single panini recipe. Input reference is ONLY for bread geometry, NEVER copy its graphics, logo, typography, composition or cartoon treatment. BREAD GEOMETRY IS CRITICAL: one SHORT-TO-MEDIUM oval pressed panini approximately 18cm long by 8cm wide, width-to-length ratio 1:2.2, pale smooth flat soft bread with parallel golden grill lines. NOT a baguette, NOT a long narrow roll, NOT a round artisan loaf, no flour-dusted rustic crust. One diagonal cut makes exactly TWO halves of ONE sandwich, arranged nearly together so the original whole compact oval silhouette remains obvious while cut faces show the filling. Elevated 45-degree camera, appetizing premium realistic food texture. Sandwich centered with generous breathing room, on warm cream deli paper on a neutral cream matte background, soft warm sidelight and delicate natural shadow. Entire sandwich visible, no cropping. No plates, no cutlery, no hands, no packaging, no typography, no logos, no watermarks, no UI, no graphic mockup. Exact recipe ingredients only; every listed ingredient should be discernible where feasible in the cut face and natural exposed edges. Tiny unbranded cue beside sandwich allowed only for a listed ingredient. No arbitrary garnish, no extra ingredient. Recipe Le Colorado. Original ingredients: Viande hachée, mozzarella, bacon, sauce barbecue, cheddar, oignons frits. FILLING: Browned minced beef, melted mozzarella, crisp bacon, dark barbecue sauce, orange cheddar and crispy fried onions.  Landscape 4:3 image.",
+    "error": "Requires basic plan or higher (account restriction returned for indices 1–6)."
+  },
+  {
+    "index": 19,
+    "id": "le-tout-simple",
+    "name": "Le Tout Simple",
+    "ingredients": "Tomates, mozzarella, huile d’olive, basilic",
+    "image": "/images/menu/le-tout-simple.webp",
+    "model": "gpt_image_2_5",
+    "status": "blocked_before_submission",
+    "prompt": "Use case: photorealistic-natural. Premium restaurant menu food photography, a unique image of a single panini recipe. Input reference is ONLY for bread geometry, NEVER copy its graphics, logo, typography, composition or cartoon treatment. BREAD GEOMETRY IS CRITICAL: one SHORT-TO-MEDIUM oval pressed panini approximately 18cm long by 8cm wide, width-to-length ratio 1:2.2, pale smooth flat soft bread with parallel golden grill lines. NOT a baguette, NOT a long narrow roll, NOT a round artisan loaf, no flour-dusted rustic crust. One diagonal cut makes exactly TWO halves of ONE sandwich, arranged nearly together so the original whole compact oval silhouette remains obvious while cut faces show the filling. Elevated 45-degree camera, appetizing premium realistic food texture. Sandwich centered with generous breathing room, on warm cream deli paper on a neutral cream matte background, soft warm sidelight and delicate natural shadow. Entire sandwich visible, no cropping. No plates, no cutlery, no hands, no packaging, no typography, no logos, no watermarks, no UI, no graphic mockup. Exact recipe ingredients only; every listed ingredient should be discernible where feasible in the cut face and natural exposed edges. Tiny unbranded cue beside sandwich allowed only for a listed ingredient. No arbitrary garnish, no extra ingredient. Recipe Le Tout Simple. Original ingredients: Tomates, mozzarella, huile d’olive, basilic. FILLING: Fresh tomato slices, melted mozzarella, olive oil and basil leaves ONLY.  Landscape 4:3 image.",
+    "error": "Requires basic plan or higher (account restriction returned for indices 1–6)."
+  },
+  {
+    "index": 20,
+    "id": "le-provencal",
+    "name": "Le Provençal",
+    "ingredients": "Tomates, olives, mozzarella, herbes de Provence, huile d’olive",
+    "image": "/images/menu/le-provencal.webp",
+    "model": "gpt_image_2_5",
+    "status": "blocked_before_submission",
+    "prompt": "Use case: photorealistic-natural. Premium restaurant menu food photography, a unique image of a single panini recipe. Input reference is ONLY for bread geometry, NEVER copy its graphics, logo, typography, composition or cartoon treatment. BREAD GEOMETRY IS CRITICAL: one SHORT-TO-MEDIUM oval pressed panini approximately 18cm long by 8cm wide, width-to-length ratio 1:2.2, pale smooth flat soft bread with parallel golden grill lines. NOT a baguette, NOT a long narrow roll, NOT a round artisan loaf, no flour-dusted rustic crust. One diagonal cut makes exactly TWO halves of ONE sandwich, arranged nearly together so the original whole compact oval silhouette remains obvious while cut faces show the filling. Elevated 45-degree camera, appetizing premium realistic food texture. Sandwich centered with generous breathing room, on warm cream deli paper on a neutral cream matte background, soft warm sidelight and delicate natural shadow. Entire sandwich visible, no cropping. No plates, no cutlery, no hands, no packaging, no typography, no logos, no watermarks, no UI, no graphic mockup. Exact recipe ingredients only; every listed ingredient should be discernible where feasible in the cut face and natural exposed edges. Tiny unbranded cue beside sandwich allowed only for a listed ingredient. No arbitrary garnish, no extra ingredient. Recipe Le Provençal. Original ingredients: Tomates, olives, mozzarella, herbes de Provence, huile d’olive. FILLING: Tomato slices, dark olives, melted mozzarella, herbes de Provence and olive oil ONLY.  Landscape 4:3 image.",
+    "error": "Requires basic plan or higher (account restriction returned for indices 1–6)."
+  },
+  {
+    "index": 21,
+    "id": "le-pesto",
+    "name": "Le Pesto",
+    "ingredients": "Tomates, mozzarella, sauce pesto",
+    "image": "/images/menu/le-pesto.webp",
+    "model": "gpt_image_2_5",
+    "status": "blocked_before_submission",
+    "prompt": "Use case: photorealistic-natural. Premium restaurant menu food photography, a unique image of a single panini recipe. Input reference is ONLY for bread geometry, NEVER copy its graphics, logo, typography, composition or cartoon treatment. BREAD GEOMETRY IS CRITICAL: one SHORT-TO-MEDIUM oval pressed panini approximately 18cm long by 8cm wide, width-to-length ratio 1:2.2, pale smooth flat soft bread with parallel golden grill lines. NOT a baguette, NOT a long narrow roll, NOT a round artisan loaf, no flour-dusted rustic crust. One diagonal cut makes exactly TWO halves of ONE sandwich, arranged nearly together so the original whole compact oval silhouette remains obvious while cut faces show the filling. Elevated 45-degree camera, appetizing premium realistic food texture. Sandwich centered with generous breathing room, on warm cream deli paper on a neutral cream matte background, soft warm sidelight and delicate natural shadow. Entire sandwich visible, no cropping. No plates, no cutlery, no hands, no packaging, no typography, no logos, no watermarks, no UI, no graphic mockup. Exact recipe ingredients only; every listed ingredient should be discernible where feasible in the cut face and natural exposed edges. Tiny unbranded cue beside sandwich allowed only for a listed ingredient. No arbitrary garnish, no extra ingredient. Recipe Le Pesto. Original ingredients: Tomates, mozzarella, sauce pesto. FILLING: Tomato slices, melted mozzarella and green pesto sauce ONLY.  Landscape 4:3 image.",
+    "error": "Requires basic plan or higher (account restriction returned for indices 1–6)."
+  },
+  {
+    "index": 22,
+    "id": "le-champi",
+    "name": "Le Champi",
+    "ingredients": "Crème fraîche, mozzarella, emmental, champignons",
+    "image": "/images/menu/le-champi.webp",
+    "model": "gpt_image_2_5",
+    "status": "blocked_before_submission",
+    "prompt": "Use case: photorealistic-natural. Premium restaurant menu food photography, a unique image of a single panini recipe. Input reference is ONLY for bread geometry, NEVER copy its graphics, logo, typography, composition or cartoon treatment. BREAD GEOMETRY IS CRITICAL: one SHORT-TO-MEDIUM oval pressed panini approximately 18cm long by 8cm wide, width-to-length ratio 1:2.2, pale smooth flat soft bread with parallel golden grill lines. NOT a baguette, NOT a long narrow roll, NOT a round artisan loaf, no flour-dusted rustic crust. One diagonal cut makes exactly TWO halves of ONE sandwich, arranged nearly together so the original whole compact oval silhouette remains obvious while cut faces show the filling. Elevated 45-degree camera, appetizing premium realistic food texture. Sandwich centered with generous breathing room, on warm cream deli paper on a neutral cream matte background, soft warm sidelight and delicate natural shadow. Entire sandwich visible, no cropping. No plates, no cutlery, no hands, no packaging, no typography, no logos, no watermarks, no UI, no graphic mockup. Exact recipe ingredients only; every listed ingredient should be discernible where feasible in the cut face and natural exposed edges. Tiny unbranded cue beside sandwich allowed only for a listed ingredient. No arbitrary garnish, no extra ingredient. Recipe Le Champi. Original ingredients: Crème fraîche, mozzarella, emmental, champignons. FILLING: Thick crème fraîche, melted mozzarella, melted Emmental cheese and cooked mushroom slices ONLY.  Landscape 4:3 image.",
+    "error": "Requires basic plan or higher (account restriction returned for indices 1–6)."
+  },
+  {
+    "index": 23,
+    "id": "le-nordique",
+    "name": "Le Nordique",
+    "ingredients": "Saumon fumé, mozzarella, crème fraîche",
+    "image": "/images/menu/le-nordique.webp",
+    "model": "gpt_image_2_5",
+    "status": "blocked_before_submission",
+    "prompt": "Use case: photorealistic-natural. Premium restaurant menu food photography, a unique image of a single panini recipe. Input reference is ONLY for bread geometry, NEVER copy its graphics, logo, typography, composition or cartoon treatment. BREAD GEOMETRY IS CRITICAL: one SHORT-TO-MEDIUM oval pressed panini approximately 18cm long by 8cm wide, width-to-length ratio 1:2.2, pale smooth flat soft bread with parallel golden grill lines. NOT a baguette, NOT a long narrow roll, NOT a round artisan loaf, no flour-dusted rustic crust. One diagonal cut makes exactly TWO halves of ONE sandwich, arranged nearly together so the original whole compact oval silhouette remains obvious while cut faces show the filling. Elevated 45-degree camera, appetizing premium realistic food texture. Sandwich centered with generous breathing room, on warm cream deli paper on a neutral cream matte background, soft warm sidelight and delicate natural shadow. Entire sandwich visible, no cropping. No plates, no cutlery, no hands, no packaging, no typography, no logos, no watermarks, no UI, no graphic mockup. Exact recipe ingredients only; every listed ingredient should be discernible where feasible in the cut face and natural exposed edges. Tiny unbranded cue beside sandwich allowed only for a listed ingredient. No arbitrary garnish, no extra ingredient. Recipe Le Nordique. Original ingredients: Saumon fumé, mozzarella, crème fraîche. FILLING: Soft coral-pink smoked salmon ribbons, melted mozzarella and thick crème fraîche ONLY.  Landscape 4:3 image.",
+    "error": "Requires basic plan or higher (account restriction returned for indices 1–6)."
+  },
+  {
+    "index": 24,
+    "id": "le-nordique-au-miel",
+    "name": "Le Nordique au miel",
+    "ingredients": "Saumon fumé, mozzarella, crème fraîche, miel",
+    "image": "/images/menu/le-nordique-au-miel.webp",
+    "model": "gpt_image_2_5",
+    "status": "blocked_before_submission",
+    "prompt": "Use case: photorealistic-natural. Premium restaurant menu food photography, a unique image of a single panini recipe. Input reference is ONLY for bread geometry, NEVER copy its graphics, logo, typography, composition or cartoon treatment. BREAD GEOMETRY IS CRITICAL: one SHORT-TO-MEDIUM oval pressed panini approximately 18cm long by 8cm wide, width-to-length ratio 1:2.2, pale smooth flat soft bread with parallel golden grill lines. NOT a baguette, NOT a long narrow roll, NOT a round artisan loaf, no flour-dusted rustic crust. One diagonal cut makes exactly TWO halves of ONE sandwich, arranged nearly together so the original whole compact oval silhouette remains obvious while cut faces show the filling. Elevated 45-degree camera, appetizing premium realistic food texture. Sandwich centered with generous breathing room, on warm cream deli paper on a neutral cream matte background, soft warm sidelight and delicate natural shadow. Entire sandwich visible, no cropping. No plates, no cutlery, no hands, no packaging, no typography, no logos, no watermarks, no UI, no graphic mockup. Exact recipe ingredients only; every listed ingredient should be discernible where feasible in the cut face and natural exposed edges. Tiny unbranded cue beside sandwich allowed only for a listed ingredient. No arbitrary garnish, no extra ingredient. Recipe Le Nordique au miel. Original ingredients: Saumon fumé, mozzarella, crème fraîche, miel. FILLING: Soft coral-pink smoked salmon ribbons, melted mozzarella, thick crème fraîche and amber honey ONLY.  Landscape 4:3 image.",
+    "error": "Requires basic plan or higher (account restriction returned for indices 1–6)."
+  },
+  {
+    "index": 25,
+    "id": "le-new-delhi",
+    "name": "Le New Delhi",
+    "ingredients": "Poulet, sauce curry, tomates, salade — sans mozzarella",
+    "image": "/images/menu/le-new-delhi.webp",
+    "model": "gpt_image_2_5",
+    "status": "blocked_before_submission",
+    "prompt": "Use case: photorealistic-natural. Premium restaurant menu food photography, a unique image of a single panini recipe. Input reference is ONLY for bread geometry, NEVER copy its graphics, logo, typography, composition or cartoon treatment. BREAD GEOMETRY IS CRITICAL: one SHORT-TO-MEDIUM oval pressed panini approximately 18cm long by 8cm wide, width-to-length ratio 1:2.2, pale smooth flat soft bread with parallel golden grill lines. NOT a baguette, NOT a long narrow roll, NOT a round artisan loaf, no flour-dusted rustic crust. One diagonal cut makes exactly TWO halves of ONE sandwich, arranged nearly together so the original whole compact oval silhouette remains obvious while cut faces show the filling. Elevated 45-degree camera, appetizing premium realistic food texture. Sandwich centered with generous breathing room, on warm cream deli paper on a neutral cream matte background, soft warm sidelight and delicate natural shadow. Entire sandwich visible, no cropping. No plates, no cutlery, no hands, no packaging, no typography, no logos, no watermarks, no UI, no graphic mockup. Exact recipe ingredients only; every listed ingredient should be discernible where feasible in the cut face and natural exposed edges. Tiny unbranded cue beside sandwich allowed only for a listed ingredient. No arbitrary garnish, no extra ingredient. Recipe Le New Delhi. Original ingredients: Poulet, sauce curry, tomates, salade — sans mozzarella. FILLING: Cooked chicken pieces, yellow curry sauce, tomato slices and fresh lettuce. NO mozzarella and NO cheese of any kind.  Landscape 4:3 image.",
+    "error": "Requires basic plan or higher (account restriction returned for indices 1–6)."
+  },
+  {
+    "index": 26,
+    "id": "landalou",
+    "name": "L’Andalou",
+    "ingredients": "Poulet, sauce andalouse, tomates, salade — sans mozzarella",
+    "image": "/images/menu/landalou.webp",
+    "model": "gpt_image_2_5",
+    "status": "blocked_before_submission",
+    "prompt": "Use case: photorealistic-natural. Premium restaurant menu food photography, a unique image of a single panini recipe. Input reference is ONLY for bread geometry, NEVER copy its graphics, logo, typography, composition or cartoon treatment. BREAD GEOMETRY IS CRITICAL: one SHORT-TO-MEDIUM oval pressed panini approximately 18cm long by 8cm wide, width-to-length ratio 1:2.2, pale smooth flat soft bread with parallel golden grill lines. NOT a baguette, NOT a long narrow roll, NOT a round artisan loaf, no flour-dusted rustic crust. One diagonal cut makes exactly TWO halves of ONE sandwich, arranged nearly together so the original whole compact oval silhouette remains obvious while cut faces show the filling. Elevated 45-degree camera, appetizing premium realistic food texture. Sandwich centered with generous breathing room, on warm cream deli paper on a neutral cream matte background, soft warm sidelight and delicate natural shadow. Entire sandwich visible, no cropping. No plates, no cutlery, no hands, no packaging, no typography, no logos, no watermarks, no UI, no graphic mockup. Exact recipe ingredients only; every listed ingredient should be discernible where feasible in the cut face and natural exposed edges. Tiny unbranded cue beside sandwich allowed only for a listed ingredient. No arbitrary garnish, no extra ingredient. Recipe L’Andalou. Original ingredients: Poulet, sauce andalouse, tomates, salade — sans mozzarella. FILLING: Cooked chicken pieces, orange Andalouse sauce, tomato slices and fresh lettuce. NO mozzarella and NO cheese of any kind.  Landscape 4:3 image.",
+    "error": "Requires basic plan or higher (account restriction returned for indices 1–6)."
+  },
+  {
+    "index": 27,
+    "id": "le-nut",
+    "name": "Le Nut",
+    "ingredients": "Nutella",
+    "image": "/images/menu/le-nut.webp",
+    "model": "gpt_image_2_5",
+    "status": "blocked_before_submission",
+    "prompt": "Use case: photorealistic-natural. Premium restaurant menu food photography, a unique image of a single panini recipe. Input reference is ONLY for bread geometry, NEVER copy its graphics, logo, typography, composition or cartoon treatment. BREAD GEOMETRY IS CRITICAL: one SHORT-TO-MEDIUM oval pressed panini approximately 18cm long by 8cm wide, width-to-length ratio 1:2.2, pale smooth flat soft bread with parallel golden grill lines. NOT a baguette, NOT a long narrow roll, NOT a round artisan loaf, no flour-dusted rustic crust. One diagonal cut makes exactly TWO halves of ONE sandwich, arranged nearly together so the original whole compact oval silhouette remains obvious while cut faces show the filling. Elevated 45-degree camera, appetizing premium realistic food texture. Sandwich centered with generous breathing room, on warm cream deli paper on a neutral cream matte background, soft warm sidelight and delicate natural shadow. Entire sandwich visible, no cropping. No plates, no cutlery, no hands, no packaging, no typography, no logos, no watermarks, no UI, no graphic mockup. Exact recipe ingredients only; every listed ingredient should be discernible where feasible in the cut face and natural exposed edges. Tiny unbranded cue beside sandwich allowed only for a listed ingredient. No arbitrary garnish, no extra ingredient. Recipe Le Nut. Original ingredients: Nutella. FILLING: Glossy chocolate-hazelnut spread ONLY, realistic thick Nutella texture. No whole nuts or other filling. This is a SWEET dessert panini: absolutely NO savory cheese, meat, lettuce, tomatoes, herbs or other vegetables. Sweet filling must be visibly recognizable. Unwrapped unbranded candies with no lettering or packaging. Landscape 4:3 image.",
+    "error": "Requires basic plan or higher (account restriction returned for indices 1–6)."
+  },
+  {
+    "index": 28,
+    "id": "le-split",
+    "name": "Le Split",
+    "ingredients": "Nutella, banane",
+    "image": "/images/menu/le-split.webp",
+    "model": "gpt_image_2_5",
+    "status": "blocked_before_submission",
+    "prompt": "Use case: photorealistic-natural. Premium restaurant menu food photography, a unique image of a single panini recipe. Input reference is ONLY for bread geometry, NEVER copy its graphics, logo, typography, composition or cartoon treatment. BREAD GEOMETRY IS CRITICAL: one SHORT-TO-MEDIUM oval pressed panini approximately 18cm long by 8cm wide, width-to-length ratio 1:2.2, pale smooth flat soft bread with parallel golden grill lines. NOT a baguette, NOT a long narrow roll, NOT a round artisan loaf, no flour-dusted rustic crust. One diagonal cut makes exactly TWO halves of ONE sandwich, arranged nearly together so the original whole compact oval silhouette remains obvious while cut faces show the filling. Elevated 45-degree camera, appetizing premium realistic food texture. Sandwich centered with generous breathing room, on warm cream deli paper on a neutral cream matte background, soft warm sidelight and delicate natural shadow. Entire sandwich visible, no cropping. No plates, no cutlery, no hands, no packaging, no typography, no logos, no watermarks, no UI, no graphic mockup. Exact recipe ingredients only; every listed ingredient should be discernible where feasible in the cut face and natural exposed edges. Tiny unbranded cue beside sandwich allowed only for a listed ingredient. No arbitrary garnish, no extra ingredient. Recipe Le Split. Original ingredients: Nutella, banane. FILLING: Glossy chocolate-hazelnut spread and ripe banana slices ONLY. This is a SWEET dessert panini: absolutely NO savory cheese, meat, lettuce, tomatoes, herbs or other vegetables. Sweet filling must be visibly recognizable. Unwrapped unbranded candies with no lettering or packaging. Landscape 4:3 image.",
+    "error": "Requires basic plan or higher (account restriction returned for indices 1–6)."
+  },
+  {
+    "index": 29,
+    "id": "le-coco",
+    "name": "Le Coco",
+    "ingredients": "Nutella, noix de coco",
+    "image": "/images/menu/le-coco.webp",
+    "model": "gpt_image_2_5",
+    "status": "blocked_before_submission",
+    "prompt": "Use case: photorealistic-natural. Premium restaurant menu food photography, a unique image of a single panini recipe. Input reference is ONLY for bread geometry, NEVER copy its graphics, logo, typography, composition or cartoon treatment. BREAD GEOMETRY IS CRITICAL: one SHORT-TO-MEDIUM oval pressed panini approximately 18cm long by 8cm wide, width-to-length ratio 1:2.2, pale smooth flat soft bread with parallel golden grill lines. NOT a baguette, NOT a long narrow roll, NOT a round artisan loaf, no flour-dusted rustic crust. One diagonal cut makes exactly TWO halves of ONE sandwich, arranged nearly together so the original whole compact oval silhouette remains obvious while cut faces show the filling. Elevated 45-degree camera, appetizing premium realistic food texture. Sandwich centered with generous breathing room, on warm cream deli paper on a neutral cream matte background, soft warm sidelight and delicate natural shadow. Entire sandwich visible, no cropping. No plates, no cutlery, no hands, no packaging, no typography, no logos, no watermarks, no UI, no graphic mockup. Exact recipe ingredients only; every listed ingredient should be discernible where feasible in the cut face and natural exposed edges. Tiny unbranded cue beside sandwich allowed only for a listed ingredient. No arbitrary garnish, no extra ingredient. Recipe Le Coco. Original ingredients: Nutella, noix de coco. FILLING: Glossy chocolate-hazelnut spread and shredded coconut ONLY. This is a SWEET dessert panini: absolutely NO savory cheese, meat, lettuce, tomatoes, herbs or other vegetables. Sweet filling must be visibly recognizable. Unwrapped unbranded candies with no lettering or packaging. Landscape 4:3 image.",
+    "error": "Requires basic plan or higher (account restriction returned for indices 1–6)."
+  },
+  {
+    "index": 30,
+    "id": "le-banoffee",
+    "name": "Le Banoffee",
+    "ingredients": "Banane, caramel, crème fouettée",
+    "image": "/images/menu/le-banoffee.webp",
+    "model": "gpt_image_2_5",
+    "status": "blocked_before_submission",
+    "prompt": "Use case: photorealistic-natural. Premium restaurant menu food photography, a unique image of a single panini recipe. Input reference is ONLY for bread geometry, NEVER copy its graphics, logo, typography, composition or cartoon treatment. BREAD GEOMETRY IS CRITICAL: one SHORT-TO-MEDIUM oval pressed panini approximately 18cm long by 8cm wide, width-to-length ratio 1:2.2, pale smooth flat soft bread with parallel golden grill lines. NOT a baguette, NOT a long narrow roll, NOT a round artisan loaf, no flour-dusted rustic crust. One diagonal cut makes exactly TWO halves of ONE sandwich, arranged nearly together so the original whole compact oval silhouette remains obvious while cut faces show the filling. Elevated 45-degree camera, appetizing premium realistic food texture. Sandwich centered with generous breathing room, on warm cream deli paper on a neutral cream matte background, soft warm sidelight and delicate natural shadow. Entire sandwich visible, no cropping. No plates, no cutlery, no hands, no packaging, no typography, no logos, no watermarks, no UI, no graphic mockup. Exact recipe ingredients only; every listed ingredient should be discernible where feasible in the cut face and natural exposed edges. Tiny unbranded cue beside sandwich allowed only for a listed ingredient. No arbitrary garnish, no extra ingredient. Recipe Le Banoffee. Original ingredients: Banane, caramel, crème fouettée. FILLING: Ripe banana slices, amber caramel and fluffy whipped cream ONLY. No chocolate. This is a SWEET dessert panini: absolutely NO savory cheese, meat, lettuce, tomatoes, herbs or other vegetables. Sweet filling must be visibly recognizable. Unwrapped unbranded candies with no lettering or packaging. Landscape 4:3 image.",
+    "error": "Requires basic plan or higher (account restriction returned for indices 1–6)."
+  },
+  {
+    "index": 31,
+    "id": "le-duo",
+    "name": "Le Duo",
+    "ingredients": "Nutella, chocolat blanc",
+    "image": "/images/menu/le-duo.webp",
+    "model": "gpt_image_2_5",
+    "status": "blocked_before_submission",
+    "prompt": "Use case: photorealistic-natural. Premium restaurant menu food photography, a unique image of a single panini recipe. Input reference is ONLY for bread geometry, NEVER copy its graphics, logo, typography, composition or cartoon treatment. BREAD GEOMETRY IS CRITICAL: one SHORT-TO-MEDIUM oval pressed panini approximately 18cm long by 8cm wide, width-to-length ratio 1:2.2, pale smooth flat soft bread with parallel golden grill lines. NOT a baguette, NOT a long narrow roll, NOT a round artisan loaf, no flour-dusted rustic crust. One diagonal cut makes exactly TWO halves of ONE sandwich, arranged nearly together so the original whole compact oval silhouette remains obvious while cut faces show the filling. Elevated 45-degree camera, appetizing premium realistic food texture. Sandwich centered with generous breathing room, on warm cream deli paper on a neutral cream matte background, soft warm sidelight and delicate natural shadow. Entire sandwich visible, no cropping. No plates, no cutlery, no hands, no packaging, no typography, no logos, no watermarks, no UI, no graphic mockup. Exact recipe ingredients only; every listed ingredient should be discernible where feasible in the cut face and natural exposed edges. Tiny unbranded cue beside sandwich allowed only for a listed ingredient. No arbitrary garnish, no extra ingredient. Recipe Le Duo. Original ingredients: Nutella, chocolat blanc. FILLING: Glossy chocolate-hazelnut spread and creamy white chocolate pieces and melt ONLY. This is a SWEET dessert panini: absolutely NO savory cheese, meat, lettuce, tomatoes, herbs or other vegetables. Sweet filling must be visibly recognizable. Unwrapped unbranded candies with no lettering or packaging. Landscape 4:3 image.",
+    "error": "Requires basic plan or higher (account restriction returned for indices 1–6)."
+  },
+  {
+    "index": 32,
+    "id": "le-colors",
+    "name": "Le Color’s",
+    "ingredients": "Nutella, M&M’s ou Smarties",
+    "image": "/images/menu/le-colors.webp",
+    "model": "gpt_image_2_5",
+    "status": "blocked_before_submission",
+    "prompt": "Use case: photorealistic-natural. Premium restaurant menu food photography, a unique image of a single panini recipe. Input reference is ONLY for bread geometry, NEVER copy its graphics, logo, typography, composition or cartoon treatment. BREAD GEOMETRY IS CRITICAL: one SHORT-TO-MEDIUM oval pressed panini approximately 18cm long by 8cm wide, width-to-length ratio 1:2.2, pale smooth flat soft bread with parallel golden grill lines. NOT a baguette, NOT a long narrow roll, NOT a round artisan loaf, no flour-dusted rustic crust. One diagonal cut makes exactly TWO halves of ONE sandwich, arranged nearly together so the original whole compact oval silhouette remains obvious while cut faces show the filling. Elevated 45-degree camera, appetizing premium realistic food texture. Sandwich centered with generous breathing room, on warm cream deli paper on a neutral cream matte background, soft warm sidelight and delicate natural shadow. Entire sandwich visible, no cropping. No plates, no cutlery, no hands, no packaging, no typography, no logos, no watermarks, no UI, no graphic mockup. Exact recipe ingredients only; every listed ingredient should be discernible where feasible in the cut face and natural exposed edges. Tiny unbranded cue beside sandwich allowed only for a listed ingredient. No arbitrary garnish, no extra ingredient. Recipe Le Color’s. Original ingredients: Nutella, M&M’s ou Smarties. FILLING: Glossy chocolate-hazelnut spread and small multicolored candy-coated chocolates ONLY, unbranded candies without printed letters. This is a SWEET dessert panini: absolutely NO savory cheese, meat, lettuce, tomatoes, herbs or other vegetables. Sweet filling must be visibly recognizable. Unwrapped unbranded candies with no lettering or packaging. Landscape 4:3 image.",
+    "error": "Requires basic plan or higher (account restriction returned for indices 1–6)."
+  },
+  {
+    "index": 33,
+    "id": "le-speculoos",
+    "name": "Le Spéculoos",
+    "ingredients": "Crème de spéculoos, spéculoos, caramel",
+    "image": "/images/menu/le-speculoos.webp",
+    "model": "gpt_image_2_5",
+    "status": "blocked_before_submission",
+    "prompt": "Use case: photorealistic-natural. Premium restaurant menu food photography, a unique image of a single panini recipe. Input reference is ONLY for bread geometry, NEVER copy its graphics, logo, typography, composition or cartoon treatment. BREAD GEOMETRY IS CRITICAL: one SHORT-TO-MEDIUM oval pressed panini approximately 18cm long by 8cm wide, width-to-length ratio 1:2.2, pale smooth flat soft bread with parallel golden grill lines. NOT a baguette, NOT a long narrow roll, NOT a round artisan loaf, no flour-dusted rustic crust. One diagonal cut makes exactly TWO halves of ONE sandwich, arranged nearly together so the original whole compact oval silhouette remains obvious while cut faces show the filling. Elevated 45-degree camera, appetizing premium realistic food texture. Sandwich centered with generous breathing room, on warm cream deli paper on a neutral cream matte background, soft warm sidelight and delicate natural shadow. Entire sandwich visible, no cropping. No plates, no cutlery, no hands, no packaging, no typography, no logos, no watermarks, no UI, no graphic mockup. Exact recipe ingredients only; every listed ingredient should be discernible where feasible in the cut face and natural exposed edges. Tiny unbranded cue beside sandwich allowed only for a listed ingredient. No arbitrary garnish, no extra ingredient. Recipe Le Spéculoos. Original ingredients: Crème de spéculoos, spéculoos, caramel. FILLING: Smooth tan speculoos cookie butter, crunchy caramelized speculoos biscuit pieces and amber caramel ONLY. This is a SWEET dessert panini: absolutely NO savory cheese, meat, lettuce, tomatoes, herbs or other vegetables. Sweet filling must be visibly recognizable. Unwrapped unbranded candies with no lettering or packaging. Landscape 4:3 image.",
+    "error": "Requires basic plan or higher (account restriction returned for indices 1–6)."
+  },
+  {
+    "index": 34,
+    "id": "lantillais",
+    "name": "L’Antillais",
+    "ingredients": "Nutella, banane, noix de coco",
+    "image": "/images/menu/lantillais.webp",
+    "model": "gpt_image_2_5",
+    "status": "blocked_before_submission",
+    "prompt": "Use case: photorealistic-natural. Premium restaurant menu food photography, a unique image of a single panini recipe. Input reference is ONLY for bread geometry, NEVER copy its graphics, logo, typography, composition or cartoon treatment. BREAD GEOMETRY IS CRITICAL: one SHORT-TO-MEDIUM oval pressed panini approximately 18cm long by 8cm wide, width-to-length ratio 1:2.2, pale smooth flat soft bread with parallel golden grill lines. NOT a baguette, NOT a long narrow roll, NOT a round artisan loaf, no flour-dusted rustic crust. One diagonal cut makes exactly TWO halves of ONE sandwich, arranged nearly together so the original whole compact oval silhouette remains obvious while cut faces show the filling. Elevated 45-degree camera, appetizing premium realistic food texture. Sandwich centered with generous breathing room, on warm cream deli paper on a neutral cream matte background, soft warm sidelight and delicate natural shadow. Entire sandwich visible, no cropping. No plates, no cutlery, no hands, no packaging, no typography, no logos, no watermarks, no UI, no graphic mockup. Exact recipe ingredients only; every listed ingredient should be discernible where feasible in the cut face and natural exposed edges. Tiny unbranded cue beside sandwich allowed only for a listed ingredient. No arbitrary garnish, no extra ingredient. Recipe L’Antillais. Original ingredients: Nutella, banane, noix de coco. FILLING: Glossy chocolate-hazelnut spread, ripe banana slices and shredded coconut ONLY. This is a SWEET dessert panini: absolutely NO savory cheese, meat, lettuce, tomatoes, herbs or other vegetables. Sweet filling must be visibly recognizable. Unwrapped unbranded candies with no lettering or packaging. Landscape 4:3 image.",
+    "error": "Requires basic plan or higher (account restriction returned for indices 1–6)."
+  },
+  {
+    "index": 35,
+    "id": "le-snickers",
+    "name": "Le Snickers",
+    "ingredients": "Caramel au beurre salé, Snickers, cacahuètes",
+    "image": "/images/menu/le-snickers.webp",
+    "model": "gpt_image_2_5",
+    "status": "blocked_before_submission",
+    "prompt": "Use case: photorealistic-natural. Premium restaurant menu food photography, a unique image of a single panini recipe. Input reference is ONLY for bread geometry, NEVER copy its graphics, logo, typography, composition or cartoon treatment. BREAD GEOMETRY IS CRITICAL: one SHORT-TO-MEDIUM oval pressed panini approximately 18cm long by 8cm wide, width-to-length ratio 1:2.2, pale smooth flat soft bread with parallel golden grill lines. NOT a baguette, NOT a long narrow roll, NOT a round artisan loaf, no flour-dusted rustic crust. One diagonal cut makes exactly TWO halves of ONE sandwich, arranged nearly together so the original whole compact oval silhouette remains obvious while cut faces show the filling. Elevated 45-degree camera, appetizing premium realistic food texture. Sandwich centered with generous breathing room, on warm cream deli paper on a neutral cream matte background, soft warm sidelight and delicate natural shadow. Entire sandwich visible, no cropping. No plates, no cutlery, no hands, no packaging, no typography, no logos, no watermarks, no UI, no graphic mockup. Exact recipe ingredients only; every listed ingredient should be discernible where feasible in the cut face and natural exposed edges. Tiny unbranded cue beside sandwich allowed only for a listed ingredient. No arbitrary garnish, no extra ingredient. Recipe Le Snickers. Original ingredients: Caramel au beurre salé, Snickers, cacahuètes. FILLING: Salted butter caramel, unwrapped pieces of chocolate-covered peanut-caramel-nougat candy bar with visible layers and peanuts ONLY. This is a SWEET dessert panini: absolutely NO savory cheese, meat, lettuce, tomatoes, herbs or other vegetables. Sweet filling must be visibly recognizable. Unwrapped unbranded candies with no lettering or packaging. Landscape 4:3 image.",
+    "error": "Requires basic plan or higher (account restriction returned for indices 1–6)."
+  },
+  {
+    "index": 36,
+    "id": "le-nut-amande",
+    "name": "Le Nut Amande",
+    "ingredients": "Nutella, amandes effilées",
+    "image": "/images/menu/le-nut-amande.webp",
+    "model": "gpt_image_2_5",
+    "status": "blocked_before_submission",
+    "prompt": "Use case: photorealistic-natural. Premium restaurant menu food photography, a unique image of a single panini recipe. Input reference is ONLY for bread geometry, NEVER copy its graphics, logo, typography, composition or cartoon treatment. BREAD GEOMETRY IS CRITICAL: one SHORT-TO-MEDIUM oval pressed panini approximately 18cm long by 8cm wide, width-to-length ratio 1:2.2, pale smooth flat soft bread with parallel golden grill lines. NOT a baguette, NOT a long narrow roll, NOT a round artisan loaf, no flour-dusted rustic crust. One diagonal cut makes exactly TWO halves of ONE sandwich, arranged nearly together so the original whole compact oval silhouette remains obvious while cut faces show the filling. Elevated 45-degree camera, appetizing premium realistic food texture. Sandwich centered with generous breathing room, on warm cream deli paper on a neutral cream matte background, soft warm sidelight and delicate natural shadow. Entire sandwich visible, no cropping. No plates, no cutlery, no hands, no packaging, no typography, no logos, no watermarks, no UI, no graphic mockup. Exact recipe ingredients only; every listed ingredient should be discernible where feasible in the cut face and natural exposed edges. Tiny unbranded cue beside sandwich allowed only for a listed ingredient. No arbitrary garnish, no extra ingredient. Recipe Le Nut Amande. Original ingredients: Nutella, amandes effilées. FILLING: Glossy chocolate-hazelnut spread and thin flaked almond slices ONLY. This is a SWEET dessert panini: absolutely NO savory cheese, meat, lettuce, tomatoes, herbs or other vegetables. Sweet filling must be visibly recognizable. Unwrapped unbranded candies with no lettering or packaging. Landscape 4:3 image.",
+    "error": "Requires basic plan or higher (account restriction returned for indices 1–6)."
+  },
+  {
+    "index": 37,
+    "id": "le-marshmallow",
+    "name": "Le Marshmallow",
+    "ingredients": "Nutella, marshmallow",
+    "image": "/images/menu/le-marshmallow.webp",
+    "model": "gpt_image_2_5",
+    "status": "blocked_before_submission",
+    "prompt": "Use case: photorealistic-natural. Premium restaurant menu food photography, a unique image of a single panini recipe. Input reference is ONLY for bread geometry, NEVER copy its graphics, logo, typography, composition or cartoon treatment. BREAD GEOMETRY IS CRITICAL: one SHORT-TO-MEDIUM oval pressed panini approximately 18cm long by 8cm wide, width-to-length ratio 1:2.2, pale smooth flat soft bread with parallel golden grill lines. NOT a baguette, NOT a long narrow roll, NOT a round artisan loaf, no flour-dusted rustic crust. One diagonal cut makes exactly TWO halves of ONE sandwich, arranged nearly together so the original whole compact oval silhouette remains obvious while cut faces show the filling. Elevated 45-degree camera, appetizing premium realistic food texture. Sandwich centered with generous breathing room, on warm cream deli paper on a neutral cream matte background, soft warm sidelight and delicate natural shadow. Entire sandwich visible, no cropping. No plates, no cutlery, no hands, no packaging, no typography, no logos, no watermarks, no UI, no graphic mockup. Exact recipe ingredients only; every listed ingredient should be discernible where feasible in the cut face and natural exposed edges. Tiny unbranded cue beside sandwich allowed only for a listed ingredient. No arbitrary garnish, no extra ingredient. Recipe Le Marshmallow. Original ingredients: Nutella, marshmallow. FILLING: Glossy chocolate-hazelnut spread and soft white marshmallow pieces ONLY. This is a SWEET dessert panini: absolutely NO savory cheese, meat, lettuce, tomatoes, herbs or other vegetables. Sweet filling must be visibly recognizable. Unwrapped unbranded candies with no lettering or packaging. Landscape 4:3 image.",
+    "error": "Requires basic plan or higher (account restriction returned for indices 1–6)."
+  },
+  {
+    "index": 38,
+    "id": "le-tagada",
+    "name": "Le Tagada",
+    "ingredients": "Nutella, fraises Tagada",
+    "image": "/images/menu/le-tagada.webp",
+    "model": "gpt_image_2_5",
+    "status": "blocked_before_submission",
+    "prompt": "Use case: photorealistic-natural. Premium restaurant menu food photography, a unique image of a single panini recipe. Input reference is ONLY for bread geometry, NEVER copy its graphics, logo, typography, composition or cartoon treatment. BREAD GEOMETRY IS CRITICAL: one SHORT-TO-MEDIUM oval pressed panini approximately 18cm long by 8cm wide, width-to-length ratio 1:2.2, pale smooth flat soft bread with parallel golden grill lines. NOT a baguette, NOT a long narrow roll, NOT a round artisan loaf, no flour-dusted rustic crust. One diagonal cut makes exactly TWO halves of ONE sandwich, arranged nearly together so the original whole compact oval silhouette remains obvious while cut faces show the filling. Elevated 45-degree camera, appetizing premium realistic food texture. Sandwich centered with generous breathing room, on warm cream deli paper on a neutral cream matte background, soft warm sidelight and delicate natural shadow. Entire sandwich visible, no cropping. No plates, no cutlery, no hands, no packaging, no typography, no logos, no watermarks, no UI, no graphic mockup. Exact recipe ingredients only; every listed ingredient should be discernible where feasible in the cut face and natural exposed edges. Tiny unbranded cue beside sandwich allowed only for a listed ingredient. No arbitrary garnish, no extra ingredient. Recipe Le Tagada. Original ingredients: Nutella, fraises Tagada. FILLING: Glossy chocolate-hazelnut spread and small red sugar-coated strawberry-shaped gummy marshmallow candies ONLY. Candies, NOT real strawberries. This is a SWEET dessert panini: absolutely NO savory cheese, meat, lettuce, tomatoes, herbs or other vegetables. Sweet filling must be visibly recognizable. Unwrapped unbranded candies with no lettering or packaging. Landscape 4:3 image.",
+    "error": "Requires basic plan or higher (account restriction returned for indices 1–6)."
+  },
+  {
+    "index": 39,
+    "id": "le-marbre",
+    "name": "Le Marbré",
+    "ingredients": "Chocolat blanc, caramel",
+    "image": "/images/menu/le-marbre.webp",
+    "model": "gpt_image_2_5",
+    "status": "blocked_before_submission",
+    "prompt": "Use case: photorealistic-natural. Premium restaurant menu food photography, a unique image of a single panini recipe. Input reference is ONLY for bread geometry, NEVER copy its graphics, logo, typography, composition or cartoon treatment. BREAD GEOMETRY IS CRITICAL: one SHORT-TO-MEDIUM oval pressed panini approximately 18cm long by 8cm wide, width-to-length ratio 1:2.2, pale smooth flat soft bread with parallel golden grill lines. NOT a baguette, NOT a long narrow roll, NOT a round artisan loaf, no flour-dusted rustic crust. One diagonal cut makes exactly TWO halves of ONE sandwich, arranged nearly together so the original whole compact oval silhouette remains obvious while cut faces show the filling. Elevated 45-degree camera, appetizing premium realistic food texture. Sandwich centered with generous breathing room, on warm cream deli paper on a neutral cream matte background, soft warm sidelight and delicate natural shadow. Entire sandwich visible, no cropping. No plates, no cutlery, no hands, no packaging, no typography, no logos, no watermarks, no UI, no graphic mockup. Exact recipe ingredients only; every listed ingredient should be discernible where feasible in the cut face and natural exposed edges. Tiny unbranded cue beside sandwich allowed only for a listed ingredient. No arbitrary garnish, no extra ingredient. Recipe Le Marbré. Original ingredients: Chocolat blanc, caramel. FILLING: Creamy white chocolate and amber caramel ONLY, marbled together. No dark chocolate. This is a SWEET dessert panini: absolutely NO savory cheese, meat, lettuce, tomatoes, herbs or other vegetables. Sweet filling must be visibly recognizable. Unwrapped unbranded candies with no lettering or packaging. Landscape 4:3 image.",
+    "error": "Requires basic plan or higher (account restriction returned for indices 1–6)."
+  },
+  {
+    "index": 40,
+    "id": "loreo",
+    "name": "L’Oréo",
+    "ingredients": "Nutella, chocolat blanc, brisures d’Oréo",
+    "image": "/images/menu/loreo.webp",
+    "model": "gpt_image_2_5",
+    "status": "blocked_before_submission",
+    "prompt": "Use case: photorealistic-natural. Premium restaurant menu food photography, a unique image of a single panini recipe. Input reference is ONLY for bread geometry, NEVER copy its graphics, logo, typography, composition or cartoon treatment. BREAD GEOMETRY IS CRITICAL: one SHORT-TO-MEDIUM oval pressed panini approximately 18cm long by 8cm wide, width-to-length ratio 1:2.2, pale smooth flat soft bread with parallel golden grill lines. NOT a baguette, NOT a long narrow roll, NOT a round artisan loaf, no flour-dusted rustic crust. One diagonal cut makes exactly TWO halves of ONE sandwich, arranged nearly together so the original whole compact oval silhouette remains obvious while cut faces show the filling. Elevated 45-degree camera, appetizing premium realistic food texture. Sandwich centered with generous breathing room, on warm cream deli paper on a neutral cream matte background, soft warm sidelight and delicate natural shadow. Entire sandwich visible, no cropping. No plates, no cutlery, no hands, no packaging, no typography, no logos, no watermarks, no UI, no graphic mockup. Exact recipe ingredients only; every listed ingredient should be discernible where feasible in the cut face and natural exposed edges. Tiny unbranded cue beside sandwich allowed only for a listed ingredient. No arbitrary garnish, no extra ingredient. Recipe L’Oréo. Original ingredients: Nutella, chocolat blanc, brisures d’Oréo. FILLING: Glossy chocolate-hazelnut spread, creamy white chocolate and dark cocoa sandwich-cookie crumbs with small white cream flecks ONLY. Unbranded cookie pieces. This is a SWEET dessert panini: absolutely NO savory cheese, meat, lettuce, tomatoes, herbs or other vegetables. Sweet filling must be visibly recognizable. Unwrapped unbranded candies with no lettering or packaging. Landscape 4:3 image.",
+    "error": "Requires basic plan or higher (account restriction returned for indices 1–6)."
+  },
+  {
+    "index": 41,
+    "id": "le-croquant",
+    "name": "Le Croquant",
+    "ingredients": "Nutella, éclats de noisettes caramélisés",
+    "image": "/images/menu/le-croquant.webp",
+    "model": "gpt_image_2_5",
+    "status": "blocked_before_submission",
+    "prompt": "Use case: photorealistic-natural. Premium restaurant menu food photography, a unique image of a single panini recipe. Input reference is ONLY for bread geometry, NEVER copy its graphics, logo, typography, composition or cartoon treatment. BREAD GEOMETRY IS CRITICAL: one SHORT-TO-MEDIUM oval pressed panini approximately 18cm long by 8cm wide, width-to-length ratio 1:2.2, pale smooth flat soft bread with parallel golden grill lines. NOT a baguette, NOT a long narrow roll, NOT a round artisan loaf, no flour-dusted rustic crust. One diagonal cut makes exactly TWO halves of ONE sandwich, arranged nearly together so the original whole compact oval silhouette remains obvious while cut faces show the filling. Elevated 45-degree camera, appetizing premium realistic food texture. Sandwich centered with generous breathing room, on warm cream deli paper on a neutral cream matte background, soft warm sidelight and delicate natural shadow. Entire sandwich visible, no cropping. No plates, no cutlery, no hands, no packaging, no typography, no logos, no watermarks, no UI, no graphic mockup. Exact recipe ingredients only; every listed ingredient should be discernible where feasible in the cut face and natural exposed edges. Tiny unbranded cue beside sandwich allowed only for a listed ingredient. No arbitrary garnish, no extra ingredient. Recipe Le Croquant. Original ingredients: Nutella, éclats de noisettes caramélisés. FILLING: Glossy chocolate-hazelnut spread and small caramelized hazelnut pieces ONLY. This is a SWEET dessert panini: absolutely NO savory cheese, meat, lettuce, tomatoes, herbs or other vegetables. Sweet filling must be visibly recognizable. Unwrapped unbranded candies with no lettering or packaging. Landscape 4:3 image.",
+    "error": "Requires basic plan or higher (account restriction returned for indices 1–6)."
+  },
+  {
+    "index": 42,
+    "id": "le-quiberon",
+    "name": "Le Quiberon",
+    "ingredients": "Caramel au beurre salé, éclats de noisettes caramélisés",
+    "image": "/images/menu/le-quiberon.webp",
+    "model": "gpt_image_2_5",
+    "status": "blocked_before_submission",
+    "prompt": "Use case: photorealistic-natural. Premium restaurant menu food photography, a unique image of a single panini recipe. Input reference is ONLY for bread geometry, NEVER copy its graphics, logo, typography, composition or cartoon treatment. BREAD GEOMETRY IS CRITICAL: one SHORT-TO-MEDIUM oval pressed panini approximately 18cm long by 8cm wide, width-to-length ratio 1:2.2, pale smooth flat soft bread with parallel golden grill lines. NOT a baguette, NOT a long narrow roll, NOT a round artisan loaf, no flour-dusted rustic crust. One diagonal cut makes exactly TWO halves of ONE sandwich, arranged nearly together so the original whole compact oval silhouette remains obvious while cut faces show the filling. Elevated 45-degree camera, appetizing premium realistic food texture. Sandwich centered with generous breathing room, on warm cream deli paper on a neutral cream matte background, soft warm sidelight and delicate natural shadow. Entire sandwich visible, no cropping. No plates, no cutlery, no hands, no packaging, no typography, no logos, no watermarks, no UI, no graphic mockup. Exact recipe ingredients only; every listed ingredient should be discernible where feasible in the cut face and natural exposed edges. Tiny unbranded cue beside sandwich allowed only for a listed ingredient. No arbitrary garnish, no extra ingredient. Recipe Le Quiberon. Original ingredients: Caramel au beurre salé, éclats de noisettes caramélisés. FILLING: Salted butter caramel and small caramelized hazelnut pieces ONLY. No chocolate. This is a SWEET dessert panini: absolutely NO savory cheese, meat, lettuce, tomatoes, herbs or other vegetables. Sweet filling must be visibly recognizable. Unwrapped unbranded candies with no lettering or packaging. Landscape 4:3 image.",
+    "error": "Requires basic plan or higher (account restriction returned for indices 1–6)."
+  },
+  {
+    "index": 43,
+    "id": "le-super-bueno",
+    "name": "Le Super Bueno",
+    "ingredients": "Nutella, Bueno",
+    "image": "/images/menu/le-super-bueno.webp",
+    "model": "gpt_image_2_5",
+    "status": "blocked_before_submission",
+    "prompt": "Use case: photorealistic-natural. Premium restaurant menu food photography, a unique image of a single panini recipe. Input reference is ONLY for bread geometry, NEVER copy its graphics, logo, typography, composition or cartoon treatment. BREAD GEOMETRY IS CRITICAL: one SHORT-TO-MEDIUM oval pressed panini approximately 18cm long by 8cm wide, width-to-length ratio 1:2.2, pale smooth flat soft bread with parallel golden grill lines. NOT a baguette, NOT a long narrow roll, NOT a round artisan loaf, no flour-dusted rustic crust. One diagonal cut makes exactly TWO halves of ONE sandwich, arranged nearly together so the original whole compact oval silhouette remains obvious while cut faces show the filling. Elevated 45-degree camera, appetizing premium realistic food texture. Sandwich centered with generous breathing room, on warm cream deli paper on a neutral cream matte background, soft warm sidelight and delicate natural shadow. Entire sandwich visible, no cropping. No plates, no cutlery, no hands, no packaging, no typography, no logos, no watermarks, no UI, no graphic mockup. Exact recipe ingredients only; every listed ingredient should be discernible where feasible in the cut face and natural exposed edges. Tiny unbranded cue beside sandwich allowed only for a listed ingredient. No arbitrary garnish, no extra ingredient. Recipe Le Super Bueno. Original ingredients: Nutella, Bueno. FILLING: Glossy chocolate-hazelnut spread and unwrapped chocolate-coated crisp wafer pieces with pale hazelnut cream inside ONLY. This is a SWEET dessert panini: absolutely NO savory cheese, meat, lettuce, tomatoes, herbs or other vegetables. Sweet filling must be visibly recognizable. Unwrapped unbranded candies with no lettering or packaging. Landscape 4:3 image.",
+    "error": "Requires basic plan or higher (account restriction returned for indices 1–6)."
+  }
+]

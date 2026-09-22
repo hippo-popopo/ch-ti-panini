@@ -1,0 +1,285 @@
+[
+  {
+    "id": "fromage",
+    "title": "Fromage",
+    "subtitle": "Du fondant. Et du caractère.",
+    "recipes": [
+      {
+        "name": "Le Ch’ti",
+        "ingredients": "Jambon, mozzarella, tomates, maroilles",
+        "id": "le-chti"
+      },
+      {
+        "name": "Le Chèvre",
+        "ingredients": "Chèvre, mozzarella, tomates, basilic, huile d’olive",
+        "id": "le-chevre"
+      },
+      {
+        "name": "Le 3 Fromages",
+        "ingredients": "Gorgonzola, mozzarella, chèvre",
+        "id": "le-3-fromages"
+      },
+      {
+        "name": "Le Maya",
+        "ingredients": "Chèvre, miel, noix, mozzarella",
+        "id": "le-maya"
+      },
+      {
+        "name": "Le Savoyard",
+        "ingredients": "Lardons, mozzarella, raclette, pomme de terre",
+        "id": "le-savoyard"
+      }
+    ]
+  },
+  {
+    "id": "poulet",
+    "title": "Poulet",
+    "subtitle": "Une recette pour chaque envie.",
+    "recipes": [
+      {
+        "name": "L’Indien",
+        "ingredients": "Poulet, mozzarella, tomates, sauce curry",
+        "id": "lindien"
+      },
+      {
+        "name": "Le Texan",
+        "ingredients": "Poulet, mozzarella, cheddar, sauce barbecue",
+        "id": "le-texan"
+      },
+      {
+        "name": "Le Marbella",
+        "ingredients": "Poulet, mozzarella, cheddar, tomates, sauce andalouse",
+        "id": "le-marbella"
+      },
+      {
+        "name": "Le Capri",
+        "ingredients": "Poulet, mozzarella, tomates, olives, herbes de Provence, huile d’olive",
+        "id": "le-capri"
+      },
+      {
+        "name": "Le Mezzo",
+        "ingredients": "Poulet, mozzarella, tomates, sauce pesto",
+        "id": "le-mezzo"
+      }
+    ]
+  },
+  {
+    "id": "jambon",
+    "title": "Jambon",
+    "subtitle": "Les classiques ont toujours raison.",
+    "recipes": [
+      {
+        "name": "Le Croq",
+        "ingredients": "Jambon, fromage — nature, ketchup ou barbecue",
+        "id": "le-croq"
+      },
+      {
+        "name": "Le Parisien",
+        "ingredients": "Jambon, fromage, tomates fraîches",
+        "id": "le-parisien"
+      },
+      {
+        "name": "Le Milano",
+        "ingredients": "Jambon, fromage, tomates fraîches, sauce pesto",
+        "id": "le-milano"
+      },
+      {
+        "name": "Le Roma",
+        "ingredients": "Jambon, fromage, champignons",
+        "id": "le-roma"
+      },
+      {
+        "name": "Le Forestier",
+        "ingredients": "Jambon, fromage, champignons, crème fraîche",
+        "id": "le-forestier"
+      }
+    ]
+  },
+  {
+    "id": "viande",
+    "title": "Viande hachée",
+    "subtitle": "Pour les faims qui ne plaisantent pas.",
+    "recipes": [
+      {
+        "name": "Le Burger",
+        "ingredients": "Viande hachée, mozzarella, sauce burger, ketchup, cheddar",
+        "id": "le-burger"
+      },
+      {
+        "name": "Le Spicy",
+        "ingredients": "Viande hachée, mozzarella, sauce samouraï, oignons frits, cheddar, ketchup",
+        "id": "le-spicy"
+      },
+      {
+        "name": "Le Colorado",
+        "ingredients": "Viande hachée, mozzarella, bacon, sauce barbecue, cheddar, oignons frits",
+        "id": "le-colorado"
+      }
+    ]
+  },
+  {
+    "id": "vegetarien",
+    "title": "Végétariens",
+    "subtitle": "Tout le plaisir, côté végétarien.",
+    "recipes": [
+      {
+        "name": "Le Tout Simple",
+        "ingredients": "Tomates, mozzarella, huile d’olive, basilic",
+        "id": "le-tout-simple"
+      },
+      {
+        "name": "Le Provençal",
+        "ingredients": "Tomates, olives, mozzarella, herbes de Provence, huile d’olive",
+        "id": "le-provencal"
+      },
+      {
+        "name": "Le Pesto",
+        "ingredients": "Tomates, mozzarella, sauce pesto",
+        "id": "le-pesto"
+      },
+      {
+        "name": "Le Champi",
+        "ingredients": "Crème fraîche, mozzarella, emmental, champignons",
+        "id": "le-champi"
+      }
+    ]
+  },
+  {
+    "id": "autres",
+    "title": "Les inclassables",
+    "subtitle": "Les petits détours gourmands.",
+    "recipes": [
+      {
+        "name": "Le Nordique",
+        "ingredients": "Saumon fumé, mozzarella, crème fraîche",
+        "id": "le-nordique"
+      },
+      {
+        "name": "Le Nordique au miel",
+        "ingredients": "Saumon fumé, mozzarella, crème fraîche, miel",
+        "id": "le-nordique-au-miel"
+      },
+      {
+        "name": "Le New Delhi",
+        "ingredients": "Poulet, sauce curry, tomates, salade — sans mozzarella",
+        "price": 0,
+        "id": "le-new-delhi"
+      },
+      {
+        "name": "L’Andalou",
+        "ingredients": "Poulet, sauce andalouse, tomates, salade — sans mozzarella",
+        "price": 0,
+        "id": "landalou"
+      }
+    ]
+  },
+  {
+    "id": "sucre",
+    "title": "Les sucrés",
+    "subtitle": "Encore une p’tite place ?",
+    "recipes": [
+      {
+        "name": "Le Nut",
+        "ingredients": "Nutella",
+        "price": 2.5,
+        "id": "le-nut"
+      },
+      {
+        "name": "Le Split",
+        "ingredients": "Nutella, banane",
+        "price": 3,
+        "id": "le-split"
+      },
+      {
+        "name": "Le Coco",
+        "ingredients": "Nutella, noix de coco",
+        "price": 3,
+        "id": "le-coco"
+      },
+      {
+        "name": "Le Banoffee",
+        "ingredients": "Banane, caramel, crème fouettée",
+        "price": 3,
+        "id": "le-banoffee"
+      },
+      {
+        "name": "Le Duo",
+        "ingredients": "Nutella, chocolat blanc",
+        "price": 3,
+        "id": "le-duo"
+      },
+      {
+        "name": "Le Color’s",
+        "ingredients": "Nutella, M&M’s ou Smarties",
+        "price": 3,
+        "id": "le-colors"
+      },
+      {
+        "name": "Le Spéculoos",
+        "ingredients": "Crème de spéculoos, spéculoos, caramel",
+        "price": 3,
+        "id": "le-speculoos"
+      },
+      {
+        "name": "L’Antillais",
+        "ingredients": "Nutella, banane, noix de coco",
+        "price": 3,
+        "id": "lantillais"
+      },
+      {
+        "name": "Le Snickers",
+        "ingredients": "Caramel au beurre salé, Snickers, cacahuètes",
+        "price": 3,
+        "id": "le-snickers"
+      },
+      {
+        "name": "Le Nut Amande",
+        "ingredients": "Nutella, amandes effilées",
+        "price": 3,
+        "id": "le-nut-amande"
+      },
+      {
+        "name": "Le Marshmallow",
+        "ingredients": "Nutella, marshmallow",
+        "price": 3,
+        "id": "le-marshmallow"
+      },
+      {
+        "name": "Le Tagada",
+        "ingredients": "Nutella, fraises Tagada",
+        "price": 3,
+        "id": "le-tagada"
+      },
+      {
+        "name": "Le Marbré",
+        "ingredients": "Chocolat blanc, caramel",
+        "price": 3,
+        "id": "le-marbre"
+      },
+      {
+        "name": "L’Oréo",
+        "ingredients": "Nutella, chocolat blanc, brisures d’Oréo",
+        "price": 3,
+        "id": "loreo"
+      },
+      {
+        "name": "Le Croquant",
+        "ingredients": "Nutella, éclats de noisettes caramélisés",
+        "price": 3,
+        "id": "le-croquant"
+      },
+      {
+        "name": "Le Quiberon",
+        "ingredients": "Caramel au beurre salé, éclats de noisettes caramélisés",
+        "price": 3,
+        "id": "le-quiberon"
+      },
+      {
+        "name": "Le Super Bueno",
+        "ingredients": "Nutella, Bueno",
+        "price": 3,
+        "id": "le-super-bueno"
+      }
+    ]
+  }
+]

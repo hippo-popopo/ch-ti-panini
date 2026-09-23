@@ -1,3 +1,4 @@
+import { assetPath } from '@/lib/asset-path';
 import { ArrowUpRight, ArrowDown, MapPin, StarFour } from '@phosphor-icons/react/dist/ssr';
 import Menu from './panini-menu';
 import Motion from './panini-motion';
@@ -29,7 +30,7 @@ export default function Home() {
           <p className="hero-signoff mt-12">Une seule boutique. Rue Nationale, à Lille.</p>
         </div>
         <figure className="hero-photo relative min-w-0">
-          <div className="shop-window-frame overflow-hidden"><img src="/images/menu/le-chti.webp" alt="Le Ch’ti, panini grillé au jambon, à la mozzarella, à la tomate et au maroilles, image d’illustration" width="960" height="720" fetchPriority="high" className="aspect-[4/3] h-auto w-full object-cover"/></div>
+          <div className="shop-window-frame overflow-hidden"><img src={assetPath("/images/menu/le-chti.webp")} alt="Le Ch’ti, panini grillé au jambon, à la mozzarella, à la tomate et au maroilles, image d’illustration" width="960" height="720" fetchPriority="high" className="aspect-[4/3] h-auto w-full object-cover"/></div>
           <figcaption className="photo-caption mt-4 flex items-center justify-between gap-4"><span className="serif">Le Ch’ti, forcément.</span><span className="text-right text-[11px] leading-4 text-muted-foreground">Jambon, mozzarella, tomate &amp; maroilles<br/>Visuel d’illustration</span></figcaption>
         </figure>
       </section>

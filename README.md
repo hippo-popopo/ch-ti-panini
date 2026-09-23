@@ -30,3 +30,7 @@ Direction commune : photographie réaliste d’un panini ovale et aplati, aux pr
 Les recettes sont centralisées dans `app/menu-data.json`. `app/menu-images.json` associe les recettes aux images disponibles. Les visuels sont générés directement avec ChatGPT et indiqués comme illustrations.
 
 Les 43 recettes disposent chacune d’un visuel, généré avec l’outil imagegen intégré à ChatGPT puis vérifié et optimisé en WebP dans `public/images/menu/`. Les prompts et les sources sont conservés dans `references/image-generation/chatgpt-manifest.json` et `chatgpt-progress.json`. Le script `scripts/import-menu-images.mjs` optimise les visuels et actualise leur correspondance. Les anciennes tentatives de génération restent dans les références comme historique et ne sont pas utilisées sur le site.
+
+## GitHub Pages
+
+Le site est publié à https://hippo-popopo.github.io/ch-ti-panini/. `pnpm build:pages` compile une version statique dans `out`, avec les chemins des images et polices adaptés au préfixe `/ch-ti-panini`. GitHub Pages utilise la racine de la branche `gh-pages`, qui contient uniquement le contenu compilé de `out` et le fichier `.nojekyll`. La branche `main` conserve le code source. Après une modification, recompiler puis actualiser les fichiers de `gh-pages` pour publier ; pousser uniquement `main` ne met pas le site en ligne à jour. Le développement local et la compilation Sites restent disponibles avec les commandes habituelles.

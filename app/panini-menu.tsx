@@ -1,4 +1,5 @@
 'use client';
+import { assetPath } from '@/lib/asset-path';
 
 import { useEffect, useState } from 'react';
 import { Leaf } from '@phosphor-icons/react';
@@ -58,7 +59,7 @@ export default function Menu() {
                   {images[recipe.id] && (
                     <div className="recipe-image-frame">
                       <img
-                        src={images[recipe.id]}
+                        src={assetPath(images[recipe.id])}
                         alt={`${recipe.name} : ${recipe.ingredients.toLowerCase()}. Visuel d’illustration.`}
                         width={960}
                         height={720}

@@ -1,0 +1,6 @@
+:HL["/ch-ti-panini/_next/static/css/fb4ba030b4b9f5d6.css","style"]
+:HL["/ch-ti-panini/fonts/dynapuff-bold.ttf","font",{"crossOrigin":"anonymous","type":"font/ttf"}]
+:HL["/ch-ti-panini/fonts/lobster-two-bold-italic.ttf","font",{"crossOrigin":"anonymous","type":"font/ttf"}]
+:HL["/ch-ti-panini/fonts/barlow-condensed-bold.ttf","font",{"crossOrigin":"anonymous","type":"font/ttf"}]
+:HL["/ch-ti-panini/images/menu/le-chti.webp","image",{"fetchPriority":"high"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"eyt6fS0zior7Lb7MCXx0R"}
